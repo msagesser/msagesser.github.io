@@ -24,17 +24,12 @@ Translational envisioning; reuse
 
 ## Assessement
 
-item | percentage of final grade 
------------- | ------------ 
-Attendance | 10%   
-Projects	| 40% 
-Final project & final presentation  |	50% 
-
 
 Item | Percentage of grade
 ------------ | -------------
 Attendance | 10%
 Projects | 40%
+Final presentation | 50%
 
 
 The final grade is a letter grade.
