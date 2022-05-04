@@ -23,8 +23,8 @@ Translational envisioning; reuse
 4.	Present research of techniques that ‘translate’ ideas between multiple intangible materials.
 
 ## Assessement
-item | percentage of final grade
------------- | ---
+item | percentage of final grade   
+------------ | ------------   
 Attendance | 10%  
 Projects	| 40%
 Final project & final presentation  |	50%
