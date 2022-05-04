@@ -102,6 +102,7 @@ Practice (4 hours)
 Lecture (4 hours)
 -	Introduction: how do we experience space through digital media? Techniques for creating spaces in sound and image. Reuse, recycle, reprocess and remix spaces in digital media
 -	Definition and conversation: space
+-	**Talk by guest artist: [Kyoka](http://www.ufunfunfufu.com/)**
 
 Practice (4 hours)
 -	Work on final project: apply everything that you have learned so far in this course and create a spatial experience based on a circular economy of footage. Length: between 5 – 10 min.
