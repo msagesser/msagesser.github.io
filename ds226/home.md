@@ -35,6 +35,20 @@ Final presentation | 50%
 The final grade is a letter grade.
 
 
+## Software & Hardware
+### Taught for everyone
+- Adobe Premiere (video montage & editing)
+- Adobe Audition (audio montage & editing)
+- VCV Rack (digital emulator of analog synthesis)
+- Microphone technique, working with field recorders
+
+### Optional tools to select from
+- Processing (software for video & audio real-time processing, interactivity)
+- Audiacity (audio editor)
+- Web Audio API (web audio)
+- Web GL (web graphics rendering)
+- Pure Data PD (audio real-time processing)
+
 ## Course Overview
 
 ### Day #1: "Time"
