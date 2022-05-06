@@ -47,6 +47,7 @@ The final grade is a letter grade.
 - Audiacity (audio editor)
 - Web Audio API (web audio)
 - Web GL (web graphics rendering)
+- Tone.js (web audio)
 - Pure Data PD (audio real-time processing)
 
 ## Course Overview
