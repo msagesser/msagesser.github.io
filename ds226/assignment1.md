@@ -1,4 +1,4 @@
-# DS226 Assignment 1
+# DS226. Assignment 1
 
 ## Part 1
 
