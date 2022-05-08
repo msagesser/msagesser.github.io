@@ -52,7 +52,9 @@ The final grade is a letter grade.
 
 ## Course Overview
 
-### Day #1: "Time"
+- [PDF full schedule](ds226-schedule-1.pdf)
+
+### [Day #1: "Time"](day1.md)
 
 Lecture (4 hours)
 -	Welcome and course overview
@@ -134,11 +136,6 @@ Lecture (4 hours)
 Practice (4 hours)
 -	Final presentation
 -	Course feedback
-
-## Detailed Day Plans
-
-- [Day 1 Schedule](day1.md)
-- [PDF full schedule](ds226-schedule-1.pdf)
 
 ## Readings
 -	Hegarty, Paul. 2014. Rumour and Radiation: Sound in Video Art. New York, N.Y.: Bloomsbury Academic.
