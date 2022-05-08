@@ -1,5 +1,6 @@
 # DS226. Day 1 Schedule
 
+- [PDF full schedule](ds226-schedule-1.pdf)
 
 Intro music: Asha Tamirisa, _in ocean_
 
