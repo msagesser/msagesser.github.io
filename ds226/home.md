@@ -135,6 +135,10 @@ Practice (4 hours)
 -	Final presentation
 -	Course feedback
 
+## Detailed Day Plans
+
+- [Day 1 Schedule](day1.md)
+- [PDF full schedule](ds226-schedule-v0.pdf)
 
 ## Readings
 -	Hegarty, Paul. 2014. Rumour and Radiation: Sound in Video Art. New York, N.Y.: Bloomsbury Academic.
