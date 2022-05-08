@@ -56,10 +56,10 @@ Present a 30sec media clip to the class, describe your process, define â€˜timeâ€
 _break_\
 \
 **17:20 - 18:10**\
-Watch & analyze:\
+[Watch & analyze:](transfinite.md)\
 Ryoji Ikeda, The Transfinite (groups of two).\
 What does the digital look like? What does the digital sound like? What is circular? What is time? What is material? What is process?\
 \
-Mini homework: bring a 1-3sec clip of something 'digital' that you experience to the next class.\
+[Mini homework](homework1.md): bring a 1-3sec clip of something 'digital' that you experience to the next class.\
 \
 Check-out: what have you learned? Summary: what have we done? What are the learning objectives?\
