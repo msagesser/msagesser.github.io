@@ -137,10 +137,7 @@ Practice (4 hours)
 
 
 ## Readings
-Core reading:
 -	Hegarty, Paul. 2014. Rumour and Radiation: Sound in Video Art. New York, N.Y.: Bloomsbury Academic.
-
-Supplementary readings:
 -	Blesser, Barry, and Linda-Ruth Salter. 2007. Spaces Speak, Are You Listening? Experiencing Aural Architecture. Cambridge, Mass.: MIT Press.
 -	Eck, Cathy van. 2017. Between Air and Electricity: Microphones and Loudspeakers as Musical Instruments. New York: Bloomsbury Academic.
 
