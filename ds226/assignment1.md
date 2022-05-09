@@ -16,32 +16,32 @@ Conduct academic research into digital media. Read Paul Hegarty, chapter 12 (Tot
 - what is _time-based_ according to 1 other academic source?
 - what is _time-based_ media according to yourself?
 
-Post all 8 answers to the Blog (infividually). Name the sources. Make clear what is source, and what is your own.
+Post your answers to the Blog (individually). Name the sources. Make clear what is source, and what is your own.
 
-## Part 2
+## ~Part 2~
 
-Conduct academic research. Consult two academic sources.
-Choose one single term. Work in groups or individually, but post your own answers.
+~Conduct academic research. Consult two academic sources.~
+~Choose one single term. Work in groups or individually, but post your own answers.~
 
-##### waste
-- what is _waste_ according to source A?
-- what is _waste_ according to source B?
-- what is _waste_ according to yourself (C)?
-- short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
+##### ~waste~
+- ~what is _waste_ according to source A?~
+- ~what is _waste_ according to source B?~
+- ~what is _waste_ according to yourself (C)?~
+- ~short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?~
 
-##### obsolete
-- what is _obsolete_ according to source A?
-- what is _obsolete_ according to source B?
-- what is _obsolete_ according to yourself (C)?
-- short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
+##### ~obsolete~
+- ~what is _obsolete_ according to source A?~
+- ~what is _obsolete_ according to source B?~
+- ~what is _obsolete_ according to yourself (C)?~
+- ~short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?~
 
-##### decay / decayed
-- what is _decay / decayed_ according to source A?
-- what is _decay / decayed_ according to source B?
-- what is _decay / decayed_ according to yourself (C)?
-- short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
+##### ~decay / decayed~
+- ~what is _decay / decayed_ according to source A?~
+- ~what is _decay / decayed_ according to source B?~
+- ~what is _decay / decayed_ according to yourself (C)?~
+- ~short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?~
 
-Post all 4 answers to the Blog (individually). Name the sources. Make clear what is source, and what is your own.
+~Post all 4 answers to the Blog (individually). Name the sources. Make clear what is source, and what is your own.~
 
 
 ## Part 3
