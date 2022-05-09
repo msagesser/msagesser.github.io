@@ -24,24 +24,24 @@ Post your answers to the Blog (individually). Name the sources. Make clear what 
 Choose one single term. Work in groups or individually, but post your own answers.
 
 ##### <s>waste
-- <s>what is _waste_ according to source A?
+- what is _waste_ according to source A?
 - what is _waste_ according to source B?
 - what is _waste_ according to yourself (C)?
 - short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
 
 ##### <s>obsolete
-- <s>what is _obsolete_ according to source A?
+- what is _obsolete_ according to source A?
 - what is _obsolete_ according to source B?
 - what is _obsolete_ according to yourself (C)?
 - short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
 
 ##### <s>decay / decayed
-- <s>what is _decay / decayed_ according to source A?
+- what is _decay / decayed_ according to source A?
 - what is _decay / decayed_ according to source B?
 - what is _decay / decayed_ according to yourself (C)?
 - short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
 
-<s>Post all 4 answers to the Blog (individually). Name the sources. Make clear what is source, and what is your own.</s>
+Post all 4 answers to the Blog (individually). Name the sources. Make clear what is source, and what is your own.
 
 
 ## Part 3
