@@ -38,12 +38,15 @@ The final grade is a letter grade.
 
 
 ## Software & Hardware
-### Taught for everyone
-- Adobe Premiere (video montage & editing)
-- Adobe Audition (audio montage & editing)
-- [Audition Tutorials by Adobe](https://helpx.adobe.com/audition/tutorials.html)
-- VCV Rack (digital emulator of analog synthesis)
-- Microphone technique, working with field recorders
+### Adobe Premiere & Audition
+- [Import/Export between Premiere & Audition](https://helpx.adobe.com/audition/how-to/export-multitrack.html?playlist=/services/playlist.helpx/products:SG_AUDITION_1_1/learn-path:key-techniques/set-header:multitrack/playlist:topic/en_us.json&ref=helpx.adobe.com)
+- [All Audition Tutorials by Adobe](https://helpx.adobe.com/audition/tutorials.html)
+
+### VCV Rack
+(digital emulator of analog synthesis)
+
+### Microphone technique, working with field recorders
+TBA
 
 ### Optional tools to select from
 - Processing (software for video & audio real-time processing, interactivity)
