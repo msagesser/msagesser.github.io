@@ -3,7 +3,9 @@ Spring 2022
 Major Elective Course  
 Credits: 3  
 64 total hours: 32 hours of lecture, 32 hours of lab  
-Language: English
+Language: English  
+[Blackboard access](https://bb.sustech.edu.cn/)\
+[Shared Folder - password protected](https://sustechsd-my.sharepoint.com/:f:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/En2QHuctvuxDk17SD9JWNHsBRHNKOqmEWZhm80Gke_ddtA?e=jAXb81)
 
 ## Instructor
 Marcel Sagesser  
