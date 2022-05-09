@@ -20,23 +20,23 @@ Post your answers to the Blog (individually). Name the sources. Make clear what 
 
 ## <s>Part 2
 
-Conduct academic research. Consult two academic sources.
+<s>Conduct academic research. Consult two academic sources.
 Choose one single term. Work in groups or individually, but post your own answers.
 
-##### waste
-- what is _waste_ according to source A?
+##### <s>waste
+- <s>what is _waste_ according to source A?
 - what is _waste_ according to source B?
 - what is _waste_ according to yourself (C)?
 - short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
 
-##### obsolete
-- what is _obsolete_ according to source A?
+##### <s>obsolete
+- <s>what is _obsolete_ according to source A?
 - what is _obsolete_ according to source B?
 - what is _obsolete_ according to yourself (C)?
 - short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
 
-##### decay / decayed
-- what is _decay / decayed_ according to source A?
+##### <s>decay / decayed
+- <s>what is _decay / decayed_ according to source A?
 - what is _decay / decayed_ according to source B?
 - what is _decay / decayed_ according to yourself (C)?
 - short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
@@ -50,7 +50,4 @@ Create time. Arrange given media objects on a timeline in software (individually
 ## Part 4
 Present a 30sec media clip to the class, describe your process, define ‘time’ by describing your media clip. How is time informed by your footage, and how is it informed by your processes and editing?
 
-Write a short paragraph of text, an 'artist statement' or 'designer statement', that accompanies your media clip as a text file.
-
-Load the video (mp4) to OneDrive
-Post the text file to Blackboard
+Load the video (mp4 @H264) to OneDrive
