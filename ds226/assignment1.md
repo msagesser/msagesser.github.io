@@ -41,7 +41,7 @@ Choose one single term. Work in groups or individually, but post your own answer
 - what is _decay / decayed_ according to yourself (C)?
 - short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
 
-Post all 4 answers to the Blog (individually). Name the sources. Make clear what is source, and what is your own.</s>
+<s>Post all 4 answers to the Blog (individually). Name the sources. Make clear what is source, and what is your own.</s>
 
 
 ## Part 3
