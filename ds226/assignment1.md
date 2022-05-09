@@ -18,24 +18,24 @@ Conduct academic research into digital media. Read Paul Hegarty, chapter 12 (Tot
 
 Post your answers to the Blog (individually). Name the sources. Make clear what is source, and what is your own.
 
-## <s>Part 2
+## Part 2
 
-<s>Conduct academic research. Consult two academic sources.
+Conduct academic research. Consult two academic sources.
 Choose one single term. Work in groups or individually, but post your own answers.
 
-##### <s>waste
+##### waste
 - what is _waste_ according to source A?
 - what is _waste_ according to source B?
 - what is _waste_ according to yourself (C)?
 - short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
 
-##### <s>obsolete
+##### obsolete
 - what is _obsolete_ according to source A?
 - what is _obsolete_ according to source B?
 - what is _obsolete_ according to yourself (C)?
 - short discussion of A & B & C: are they opposing one another? If yes, why? Is there overlap? Where is overlap, where is contradiction, and why?
 
-##### <s>decay / decayed
+##### decay / decayed
 - what is _decay / decayed_ according to source A?
 - what is _decay / decayed_ according to source B?
 - what is _decay / decayed_ according to yourself (C)?
