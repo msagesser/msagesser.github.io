@@ -41,6 +41,7 @@ The final grade is a letter grade.
 ### Taught for everyone
 - Adobe Premiere (video montage & editing)
 - Adobe Audition (audio montage & editing)
+- [Audition Tutorials by Adobe](https://helpx.adobe.com/audition/tutorials.html)
 - VCV Rack (digital emulator of analog synthesis)
 - Microphone technique, working with field recorders
 
