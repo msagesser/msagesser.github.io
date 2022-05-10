@@ -122,6 +122,19 @@ Sourse: Meeske, M. (1997). An introduction to digital media. Journalism and Mas
 
 - "As the Fowler Museum's first show dedicated exclusively to time-based media, 'Continental Rifts' brought together the film, video, and photography of five acclaimed contemporary artists who explored shifting notions of identity in a transnational world. Mary (Polly) Nooter Roberts, the former deputy director and chief curator of the Fowler, selected works by Yto Barrada, Claudia Cristovao, Alfredo Jaar, Georgia Papageorge, and Berni Searle to explore the physical and conceptual boundaries that characterize understandings of Africa."
 
+
+
+- “Contemporary artworks that include video, film, slide, audio, or computer-based technologies are referred to as time-based media works because they have duration as a dimension and unfold to the viewer over time.” (https://www.zhihu.com/answer/2058815775)
+
+
+
+- Usually time-based media are video, slide, film, audio or computer based. Part of what it means to experience the art is to watch it unfold over time according to the temporal logic of the medium as it is played back. (https://www.tate.org.uk/art/art-terms/t/time-based-media)
+
+
+- Early examples of time-based media date back to the 1960s, in particular the art of Bruce Nauman, who would record happenings to be played back in the gallery. His Performance Corridor, made in 1968, was a recording of a performance in which people edged their way down a dark narrow tunnel. Since Nauman’s early explorations, artists have also experimented with the elasticity of the medium in order to stretch time and space. In 1993 Douglas Gordon slowed down Alfred Hitchcock’s film Psycho for twenty-four hours
+
+
+
 ### What is 'time-based' according to yourself?
 
 
