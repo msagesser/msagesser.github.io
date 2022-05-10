@@ -1,6 +1,8 @@
 [Blackboard access](https://bb.sustech.edu.cn/)\
 [Shared Folder - password protected](https://sustechsd-my.sharepoint.com/:f:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/En2QHuctvuxDk17SD9JWNHsBRHNKOqmEWZhm80Gke_ddtA?e=jAXb81)  
 [Emerging Definitions](definitions.md)  
+[day 1](day1.md)
+[day 2](day2.md)
 
 # DS226. Circular Products: Experience
 Spring 2022  
@@ -74,7 +76,7 @@ Practice (4 hours)
 -	Small exercise: create time. Arrange given media objects on a timeline in software
 -	Present a 30sec media clip to the class, describe your process, define ‘time’ by describing your media clip
 
-### Day #2: "Experience I"
+### [Day #2: "Experience I"](day2.md)
 
 Lecture (4 hours)
 -	Introduction: capturing an experience, recording and filming, image and sound
