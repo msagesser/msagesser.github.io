@@ -61,10 +61,7 @@ Sourse: Meeske, M. (1997). An introduction to digital media. Journalism and Mas
 
 
 ## Time-Based
-### What is 'time-based' according to Cathy van Eck and Paul Hegarty?
-
-
-### What is 'time-based' according to 1 other academic source?
+### What is 'time-based' according to academic sources?
 
 
 
@@ -94,6 +91,16 @@ Sourse: Meeske, M. (1997). An introduction to digital media. Journalism and Mas
 
 - Time-based artworks that include video, film, slide, audio, or computer technologies are referred to as time-based media works because they have duration as a dimension and unfold to the viewer over time. Collecting, preserving, and exhibiting these artworks poses complex technical and ethical challenges to conservators.----https://www.guggenheim.org/conservation/time-based-media
 
+- Contemporary artworks that include video, film, slide, audio, or computer technologies are referred to as time-based media works because they have duration as a dimension and unfold to the viewer over time. (https://www.guggenheim.org/conservation/time-based-media)
+
+- Among the descriptors identifying a traditional artwork are its dimensions, measured as height by length by depth. With many contemporary artworks, these physical dimensions are variable. Time-based media is a term that we use to summarize those artworks that have duration as a dimension, e.g. “four minutes and 33 seconds.” (www.guggenheim.org/blogs/checklist/what-is-time-based-media-a-q-and-a-with-guggenheim-conservator-joanna-phillips/)
+
+- "Although numerous past contemporary African art exhibits have included time-based materials, Roberts's decision to isolate the medium emphasized its ability to capture movement in a world of shifting temporalities and oscillating identities." (https://link.gale.com/apps/doc/A247340072/AONE)
+
+- "However, despite the exhibit's broad geological premise, it was the mode of expression, the time-based medium, that truly unified the selected works. Unlike the many exhibits that address ideas of Africa, "Continental Rifts" critically explored a medium and how its intrinsic qualities facilitate a reassessment of ongoing debates on African art. Hence, while the works' medium was constant, their content was wide-ranging. From Jaar's video of a war-torn Angola to Barrada's photographs of the burgeoning tourist industry in Tangier, it was the inclusion of a multiplicity of voices that defied categorization and shattered stereotypes of an undifferentiated Africa."
+
+- "As the Fowler Museum's first show dedicated exclusively to time-based media, 'Continental Rifts' brought together the film, video, and photography of five acclaimed contemporary artists who explored shifting notions of identity in a transnational world. Mary (Polly) Nooter Roberts, the former deputy director and chief curator of the Fowler, selected works by Yto Barrada, Claudia Cristovao, Alfredo Jaar, Georgia Papageorge, and Berni Searle to explore the physical and conceptual boundaries that characterize understandings of Africa."
+
 ### What is 'time-based' according to yourself?
 
 
@@ -102,3 +109,5 @@ Sourse: Meeske, M. (1997). An introduction to digital media. Journalism and Mas
 - Painting is usually not time based because it is static and in a short period of time, it would not change as time flows. Painting also has its advantage. We can appreciate it for a long "time". (We are used to pause a film from time to time )
 
 - We should also note that the digital aspect sometimes cancels the time-based of the material itself. For example, the physical properties of a photo (or painting) in reality will change over time (become"old" physically).  However, when the photo is digitized, it no longer had this layer of properties. To a certain extent, the preservation of digital form makes it lose its physical timebase attribute, making it less authentic.
+
+- Time-based media is the media that has the property of time as an integrated property of existence, storage, expression, and so on. For the time-based content, what can be observed change with elapsing of time, and by observing continuously in the dimension of time , what the observer gets can be different from only observing for a certain instant stayed moment. 
