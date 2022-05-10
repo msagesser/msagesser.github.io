@@ -9,6 +9,8 @@ Hegarty: Digital media is to use binary computing to store, deliver information
 Digial media is a set of stimulacra, it hastens the end of aything being outside of simulated reality. On the one hand, it is ubiquitous, as a normal technical procedure allowing high fidelity 'sharing' of material.  On the other hand, it has introduced fundamental social change, signaling a change in functionality of artworks.
 
 - van Eck: Digital media is a technological process that can input, store, transport, edit and output the information.
+
+
 - Hegarty: Digial media is a set of stimulacra, it hastens the end of aything being outside of simulated reality. On the one hand, it is ubiquitous, as a normal technical procedure allowing high fidelity 'sharing' of material.  On the other hand, it has introduced fundamental social change, signaling a change in functionality of artworks.
 
 ### what is 'digital media' according to 1 other academic source?
@@ -24,12 +26,14 @@ Sourse: Meeske, M. (1997). An introduction to digital media. Journalism and Mas
 ### What is 'digital media' according to yourself?
 
 - Digital media is to use art pieces and codes to deal with information, including getting, editting, delivering.
+
 - Personal thinking: Digital media provides a way that have more possibility. More people can access and edit the same thing. And it doesn’t have some physical limitation. It blurs the concept of time to some extent(?).
 
 ## Time
 ### What is 'time' according to Cathy van Eck and Paul Hegarty?
 
 - Hegarty：Time is a passage towards total simulation. Time makes people further believe in high fidelity reproduction and seek for storage methods.
+
 - Hegarty: Time is a passage towards total simulation. Time makes people further believe in high fidelityreproduction and seek for storage methods.
 
 - van Eck: Time is one type of data to together describe the variation of air pressure, which is used to enables vibrations in sound making.
@@ -41,13 +45,52 @@ Sourse: Meeske, M. (1997). An introduction to digital media. Journalism and Mas
 ### what is 'time' according to 1 other academic source?
 
 - what is time in the artical " Time in Simulation and Real Time Simulation "?Time has two types, one is real time in life, which can’t be changed but only record, one is the simulation time within the machine system, which is based on the impulse frequency and can be adjusted depending on our needs.
+
 - Time has two types, one is real time in life, which can’t be changed but only record, one is the simulation time within the machine system, which is based on the impulse frequency and can be adjusted depending on our needs. (source: "Time in Simulation and Real Time Simulation")
 
 ### What is 'time' according to yourself?
 
 - Time scares people, Let people be cautious, cherish and enjoy the presen. Let people reflect and progress because of fear to time.
 
-
 - For human, time is a variable existing in feelings and memories. That variable makes people feel the changes of other variables.
 
 - For mashines or the virtual world, people can control the time to control the world, but should depend on the conditions of devices or logic of systems.
+
+
+
+
+
+## Time-Based
+### What is 'time-based' according to Cathy van Eck and Paul Hegarty?
+
+
+### What is 'time-based' according to 1 other academic source?
+
+
+
+- it's interesting to see different art forms are time-based differently. like music, film, they are totally time-based. E.g. film is somehow time-based double times, because its raw material is video clips which is time-based and its most important expression form is editting, montage, which is also basically play tricks with time. https://b23.tv/IW5tbph
+
+- but paint, sculpture, photography are not time-based. they don't contain a time axis, they are about a solid moment. but it doesn't mean they don't deal with time as an element.. E.g. "the decisive moment" theory of Bresson, a photographer:
+
+- "Behind the Gare Saint-Lazare, Paris, 1932", "make the solid moment have the potential to move", https://www.bilibili.com/video/BV1o34y1X7Ah?share_source=copy_web
+
+- e.g. Apollo and Daphne,Gianlorenzo Bernini,1622-1623
+
+- JoJo stand, Hirohiko Araki, https://img0.baidu.com/it/u=2694020965,2665911423&fm=253&fmt=auto&app=138&f=JPEG?w=445&h=480
+
+- lack of a time line is the obstacle of these art forms. but one of the greatest forces of art is to break the obstacle. and the most interesting way of dealing with time is in literature and comics. they has a read sequency, but how to read them is all depended on the readers.
+
+- e.g.  "harry in the movie" when harry met sally, 1989. because he didn't know which came first, last page or his death
+
+- Composition n°1, Marc Saporta, 1962, a novel composed with 500 separated pages, you can change their sequence before you read, like shuffle cards when playing pokers, so each time you will read a whole different story.
+
+- Fedelty 原真性 https://b23.tv/cHafKjd
+
+- "how can the matrix know the taste of chicken?" film “the matrix”
+
+- how much can the digital actually be enough for an artwork
+
+- 数据的失真与随着时间的丢失
+
+
+### What is 'time-based' according to yourself?
