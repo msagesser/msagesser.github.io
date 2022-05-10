@@ -92,5 +92,13 @@ Sourse: Meeske, M. (1997). An introduction to digital media. Journalism and Mas
 
 - 数据的失真与随着时间的丢失
 
+- Time-based artworks that include video, film, slide, audio, or computer technologies are referred to as time-based media works because they have duration as a dimension and unfold to the viewer over time. Collecting, preserving, and exhibiting these artworks poses complex technical and ethical challenges to conservators.----https://www.guggenheim.org/conservation/time-based-media
 
 ### What is 'time-based' according to yourself?
+
+
+- In my understanding, Time-base artwork is a form of presentation based on time changes. For example, play a movie. The effect is especially evident in the editing of films, where editors manipulate the timeline by reversing the sequence of shots. The timeline shown to the audience changes accordingly. This kind of work has more tension.I would like to use painting as a comparation.
+
+- Painting is usually not time based because it is static and in a short period of time, it would not change as time flows. Painting also has its advantage. We can appreciate it for a long "time". (We are used to pause a film from time to time )
+
+- We should also note that the digital aspect sometimes cancels the time-based of the material itself. For example, the physical properties of a photo (or painting) in reality will change over time (become"old" physically).  However, when the photo is digitized, it no longer had this layer of properties. To a certain extent, the preservation of digital form makes it lose its physical timebase attribute, making it less authentic.
