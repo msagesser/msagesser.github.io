@@ -1,3 +1,7 @@
+[Assignment 1](assignment1.md)  
+[Ikeda Analysis](transfinite.md)  
+[Mini-Homework 1](homework1.md)  
+
 # DS226. Day 1 Schedule
 
 - [PDF full schedule](ds226-schedule-1.pdf)
