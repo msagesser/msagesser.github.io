@@ -64,6 +64,27 @@ Sourse: Meeske, M. (1997). An introduction to digital media. Journalism and Mas
 ### What is 'time-based' according to academic sources?
 
 
+- The definition of time-based media in WIKI say that Contemporary artworks that include video, film, slide, audio, or computer-based technologies are referred to as time-based media works because they have duration as a dimension and unfold to the viewer over time.
+
+ 
+
+- Based on this definition, video is a typical example that have its own time to record and show. But we also consider novels, paintings, and photos that probably have its infinite time, from different viewing choice. That is, once an audience can choose to  stop reading a comic book and it would stop at a certain scene, then the time for this comic book to this viewer can be frozen, and may be kinds of time-based(widely, generalized). Also, the capture movement in a world of shifting temporaries and oscillating identities can have a relationship.
+
+ 
+
+- For this form of artworks, people should focus on four specific areas of activity in the time-based art life cycle: Acquisition Documentation; Installation, display, and access; and Preservation. In practice, of course, these areas are fundamentally integrated at many levels, and cannot be addressed in isolation.
+
+ 
+
+- As for preservation and display, as the time pass by, there are problems for this time-based media. On the one hand, we have to try to find way to storage them, archiving and display alike. With development of technology, the digital media can storage in high quality. However the way to storage a time-based artworks can sometimes be undermine the 'record industry' or its film equivalent. It is about the way to storage them, when using high technology, some digital media is required so the outcome to present in front of viewer have passed through lots of screens, re-organized methods and so on. That can change the time-based media itself, partly different from the original one. On the other hands, very accuracy of re-presentation can make the time-based artworks lose its trace of time. In total screen by Ryoji Ikeda, Carsten Nicolai, Granular Synthesis said that by manipulation of the supposedly perfect disc, which could then be ironically displayed in triumphal accuracy on a finished CD (without the sanctification of the properly functioning finished product, glitching would be heard only as mistake). I think respect time, preserve the trace of time and view the time trace can be part of the artworks. Re-presentation allows sharing, but the things it shares are no longer the original artworks. As time passes by, perhaps the low quality from today’s view is a kind of present of time-based, based on real time to tell the viewer what the artworks have pass through.
+
+ 
+
+- We also see some essays talk about organizations try to understand the initial expression from artists to better choose a way to storage time-based media.
+
+- Time-based media conservation aims to determine and monitor the acceptable degree of short-, middle-, and long-term change that an artwork may undergo in response to different display environments, technological developments, curatorial and exhibition-design concepts, or technicians’ preferences. To understand and preserve a work of media art, the responsible conservator considers the artist’s intention as well as the work’s technical components and analyzes the relationship between the two. Whether and how a device or technology can be exchanged will depend on its significance to the individual artwork. To make an informed assessment, the conservator must fully understand the function and characteristics of involved technologies and identify their specific impact on the artwork’s aesthetic, conceptual, and historical identity.
+
+
 
 - it's interesting to see different art forms are time-based differently. like music, film, they are totally time-based. E.g. film is somehow time-based double times, because its raw material is video clips which is time-based and its most important expression form is editting, montage, which is also basically play tricks with time. https://b23.tv/IW5tbph
 
