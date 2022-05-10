@@ -16,7 +16,7 @@ Intro music: CMD, _osc.jamz_
 _break_  
   
 **9:00 - 9:50**  
-Lecture:\
+Lecture:  
 - film/video history in abstraction, sound art history, and immersion.
 - Waste, obsolete, decayed  
   
@@ -55,16 +55,16 @@ Put sound and image together without any further editing; create an experience t
   
 Assignment 2 / Part 3:  
 write "artist statement" and post it. While doing so, define through your artistic work what 'waste,' 'obsolete', and 'decayed' is (individually)
-\  
-**17:10 - 17:20**\
-_break_\
-\
-**17:20 - 18:10**\
-"Assignment 2 / Part 3:\
-Present a 30sec digital media product to the class (groups of two). Class discussion. Discuss 'experience' and 'experience of time' between material/footage and process/mediation.\
-\
-Introduce final project as well as interrim review. (present assignment)\
-\
-Homework for next week: each student meets with Marcel for 10minutes and presents brainstorming and at least 2 collected materials/artifacts. Organize sign-up sheet. (individually)\
-\
+   
+**17:10 - 17:20**  
+_break_  
+  
+**17:20 - 18:10**  
+"Assignment 2 / Part 3:  
+Present a 30sec digital media product to the class (groups of two). Class discussion. Discuss 'experience' and 'experience of time' between material/footage and process/mediation.  
+  
+Introduce final project as well as interrim review. (present assignment)  
+  
+Homework for next week: each student meets with Marcel for 10minutes and presents brainstorming and at least 2 collected materials/artifacts. Organize sign-up sheet. (individually)  
+  
 Check-out: what have you learned? Summary: what have we done, what are the learning objectives."
