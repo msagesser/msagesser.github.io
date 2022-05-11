@@ -13,6 +13,7 @@ Length: between 5 – 10 min.
 Homework week 1-2:  
 - collect at least 2 raw digital materials (image or sound or both)  
 - meet with Marcel for 10 minutes before the next class and present your brainstorming and at least two collected materials (image or sound or both)
+- sign up for a meeting on the sign-up sheet on OneDrive by the end of May 11, 2022
 
 ### Part 2
 
