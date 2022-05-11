@@ -1,3 +1,6 @@
+[DS226 Home](home.md)  
+
+
 # DS226. Assignment 1
 
 ## Part 1
