@@ -1,4 +1,4 @@
-[DS226 Home](home.md). 
+[DS226 Home](home.md)  
 [Assignment 2](assignment2.md)  
 [Detailed schedule day 2](ds226-schedule-2.pdf)
 
