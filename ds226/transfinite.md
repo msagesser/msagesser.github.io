@@ -1,3 +1,4 @@
+[DS226 Home](home.md)  
 # DS226. Ryoji Ikeda - The Transfinite
 
 https://www.bilibili.com/video/BV1oV411d7Fy
