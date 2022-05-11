@@ -12,7 +12,7 @@ capture an experience that relates to (intangible) ‘waste’, ‘obsolete’, 
 
 
 
-- write an “artist statement” and post it. While doing so, define through your artistic work one of the terms – ‘waste,’ ‘obsolete’, or ‘decayed’. (individually)
+- write an [“artist statement”](artist-statement.md) and post it. While doing so, define through your artistic work one of the terms – ‘waste,’ ‘obsolete’, or ‘decayed’. (individually)
 
 ## Part 3
 
