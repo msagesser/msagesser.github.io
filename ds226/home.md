@@ -1,9 +1,10 @@
 [Blackboard access](https://bb.sustech.edu.cn/)\
 [Shared Folder - password protected](https://sustechsd-my.sharepoint.com/:f:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/En2QHuctvuxDk17SD9JWNHsBRHNKOqmEWZhm80Gke_ddtA?e=jAXb81)  
 [Emerging Definitions](definitions.md)  
-[day 1](day1.md)  
-[day 2](day2.md)  
-
+[Day 1](day1.md)  
+[Day 2](day2.md)  
+[Final Project](final.md)  
+  
 # DS226. Circular Products: Experience
 Spring 2022  
 Major Elective Course  
