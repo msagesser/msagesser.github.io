@@ -46,7 +46,8 @@ The final grade is a letter grade.
 ## Software & Hardware
 ### Adobe Premiere & Audition
 - [Import/Export between Premiere & Audition](https://helpx.adobe.com/audition/how-to/export-multitrack.html?playlist=/services/playlist.helpx/products:SG_AUDITION_1_1/learn-path:key-techniques/set-header:multitrack/playlist:topic/en_us.json&ref=helpx.adobe.com)
-- [All Audition Tutorials by Adobe](https://helpx.adobe.com/audition/tutorials.html)
+- [Adobe Audition Tutorials](https://helpx.adobe.com/audition/tutorials.html)  
+- [Adobe Audition Help](https://helpx.adobe.com/support/audition.html)  
 
 ### VCV Rack
 (digital emulator of analog synthesis)
