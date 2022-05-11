@@ -1,3 +1,4 @@
+[DS226 Home](home.md)  
 [Assignment 1](assignment1.md)  
 [Ikeda Analysis](transfinite.md)  
 [Mini-Homework 1](homework1.md)  
