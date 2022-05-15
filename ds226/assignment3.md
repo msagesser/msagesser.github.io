@@ -40,7 +40,8 @@ Create an _abstract_ digital media collage using only:
 (abstract means that there should be no story, no concrete action, no text, no spoken language)  
   
 Then:  
-- combine, edit, process, recombine, change, manipulate the media files in a creative way.
+- combine, edit, process, recombine, change, manipulate the media files in a creative way
+- You are only using pre-existing material, but the task is to create something new out of something old
 - Try out some _radical_ editing
 - For the image: try to create aesthetically interesting abstract textures that change (slowly) over time
 - For the sound: try to create aesthetically interesting abstract textures that change (slowly) over time  
