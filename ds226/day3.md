@@ -3,6 +3,7 @@
 [Detailed schedule day 3](ds226-schedule-3.pdf)
 
 # DS226. Day 3 Schedule
+## Circular Economies: Material and Process
 
 
 
