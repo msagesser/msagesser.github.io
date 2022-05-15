@@ -46,8 +46,10 @@ Then:
 - For the image: try to create aesthetically interesting abstract textures that change (slowly) over time
 - For the sound: try to create aesthetically interesting abstract textures that change (slowly) over time  
 - Use multiple of the following techniques:
-  - loop
-  - asdf 
+  - looping / repeating, 
+  - slowing down / speeding up, 
+  - copying / collaging / multiplying
+  - framing / selecting / cropping 
   
 
 ## Part 4: presenting (individually)
