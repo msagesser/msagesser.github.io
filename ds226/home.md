@@ -4,6 +4,7 @@
 [Chicago Manual of Style](https://www.chicagomanualofstyle.org/)  
 [Day 1](day1.md)  
 [Day 2](day2.md)  
+[Day 3](day3.md)  
 [Final Project](final.md)  
   
 # DS226. Circular Products: Experience
@@ -90,7 +91,7 @@ Practice (4 hours)
 -	Small field trip: capture an experience outdoors on campus in groups of two. Record sound, and record image. Put sound and image together without any further editing; create an experience that has no cuts and no other editing than matching sound and image
 -	Present a 30sec digital media product to the class
 
-### Day #3: "Circular Economies: Material and Process"
+### [Day #3: "Circular Economies: Material and Process"](day3.md)  
 
 Lecture (4 hours)
 -	Introduction: reuse of existing materials, reprocess
