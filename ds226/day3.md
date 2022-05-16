@@ -10,7 +10,7 @@
 **8:00 - 8:50**  
 - Check-in
 
-- Presentations of final project brainstorming; class assigns keywords, creating thematic afiinities; classifying materials and ideas  
+- Presentations of final project brainstorming; class assigns keywords, creating thematic affinities; classifying materials and ideas  
 
 
 **8:50 - 9:00**  
