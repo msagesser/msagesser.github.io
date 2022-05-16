@@ -3,6 +3,7 @@
 [Detailed schedule day 2](ds226-schedule-2.pdf)
 
 # DS226. Day 2 Schedule
+## Experience I
 
 Intro music: CMD, _osc.jamz_
 
