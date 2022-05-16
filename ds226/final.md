@@ -4,9 +4,21 @@
 
 
 Work on final project: apply everything that you have learned in this course and create a (spatial) experience (in image & sound) based on a circular economy of footage.  
-  
-Length: between 5 – 10 min.
 
+- create something abstract (textures that change slowly over time, in image and sound)
+- put images and sounds together that were not together before
+- use mostly pre-existing materials (circular economy: create something new out of something old)
+- combine, edit, process, recombine, change, manipulate the media files in a creative way
+- Try out some radical editing (“radical” means the edit itself becomes visible/audible; the edit becomes part of the content)
+- Use some of the editing techniques we learned in this class:
+  - looping / repeating
+  - slowing down / speeding up
+  - copying / collaging / multiplying
+  - framing / selecting / cropping
+
+   
+- Length: between 5 – 10 min.
+  
 
 ### Part 1 - Homework (individually)
 
