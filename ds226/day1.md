@@ -4,6 +4,7 @@
 [Mini-Homework 1](homework1.md)  
 
 # DS226. Day 1 Schedule
+## Time
 
 [PDF full schedule version day 1](ds226-schedule-1.pdf)
 
