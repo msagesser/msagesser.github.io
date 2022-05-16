@@ -5,6 +5,7 @@
 
 Work on final project: apply everything that you have learned in this course and create a (spatial) experience (in image & sound) based on a circular economy of footage.  
 
+- create a work of digital media art  
 - create something abstract (textures that change slowly over time, in image and sound)
 - put images and sounds together that were not together before
 - use mostly pre-existing materials (circular economy: create something new out of something old)
