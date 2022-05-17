@@ -1,6 +1,7 @@
 [DS226 Home](home.md)  
 [Assignment 4](assignment4.md)  
-[Detailed schedule day 4](ds226-schedule-4.pdf)
+[Detailed schedule day 4](ds226-schedule-4.pdf)  
+[Interim Review](interim.md)  
 
 # DS226. Day 4 Schedule
 ## "Waste"
