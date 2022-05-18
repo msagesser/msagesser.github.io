@@ -107,7 +107,7 @@ Practice (4 hours)
 -	Small exercise: collect pre-existing images and sounds. Categorize, archive, and describe your materials. Then, rearrange, recombine, remix and reprocess the materials in software
 -	Present a 30sec clip to the class
 
-### Day #4: "Waste"
+### [Day #4: "Waste"](day4.md)
 
 Lecture (4 hours)
 -	Introduction: waste, obsolete and decayed materials in time-based digital media
