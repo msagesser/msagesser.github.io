@@ -64,7 +64,6 @@ Digital emulator of analog synthesis, can also be used to process pre-existing s
 Introduction to microphone technique, field recording, analog/digital translation, stereo, audio editing, effects, mixing and mastering  
 
 ### Optional tools to select from
-- Processing (software for video & audio real-time processing, interactivity)
 - Audiacity (audio editor)
 - Web Audio API (web audio)
 - Web GL (web graphics rendering)
@@ -73,7 +72,7 @@ Introduction to microphone technique, field recording, analog/digital translatio
 
 ## Course Overview
 
-- [PDF full schedule](ds226-schedule-1.pdf)
+- [PDF full schedule](ds226-schedule-4.pdf)
 
 ### [Day #1: "Time"](day1.md)
 
