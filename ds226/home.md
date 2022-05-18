@@ -53,11 +53,15 @@ The final grade is a letter grade.
 - [Adobe Audition Tutorials](https://helpx.adobe.com/audition/tutorials.html)  
 - [Adobe Audition Help](https://helpx.adobe.com/support/audition.html)  
 
+### Processing.org
+(including P5.js)  
+Software for digital processing of images, video, and sound  
+
 ### VCV Rack
-(digital emulator of analog synthesis)
+Digital emulator of analog synthesis, can also be used to process pre-existing sounds  
 
 ### Microphone technique, working with field recorders
-TBA
+Introduction to microphone technique, field recording, analog/digital translation, stereo, audio editing, effects, mixing and mastering  
 
 ### Optional tools to select from
 - Processing (software for video & audio real-time processing, interactivity)
