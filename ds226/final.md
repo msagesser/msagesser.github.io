@@ -31,7 +31,17 @@ Homework week 1-2:
 ### Part 2 - Homework
 
 Homework week 2-3:  
-_To be announced_
+
+
+Each groups meets with Marcel for 10min and presents a major project proposal including:  
+- concept notes,
+- methods,
+- topic,
+- academic research,
+- catalog of materials,
+- backgrounds and bios  
+
+Sign up for a meeting on the sign-up sheet on OneDrive by the end of the day, May 18, 2022  
 
 ### Part 3 - Homework
 
