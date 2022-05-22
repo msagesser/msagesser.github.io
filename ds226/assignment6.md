@@ -3,13 +3,8 @@
 
 
 ## Part 1: (individually)
-Dig or scrape for  digital "waste"
+Create an experimental, research-based graphical "storyboard" for a translation process in sound and image. As a part of your storyboard, reflect on the use of materials, and the use of processes.
 
 ## Part 2: (individually)
 
-- Create a 30sec experience using only the found "waste"
-- Contextualize your result with terms such as synthesis, reuse, recycling, referencing, citing, or appropriating;
-
-## Part 3: (individually)
-
-Brief playback of result for everyone in class
+Present your result to the class.
