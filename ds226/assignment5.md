@@ -3,13 +3,17 @@
 
 
 ## Part 1: (individually)
-Dig or scrape for  digital "waste"
+
+Create one sound (in sound synthesis) that changes slowly over time. 
+  
+(Length: 30 sec)
 
 ## Part 2: (individually)
 
-- Create a 30sec experience using only the found "waste"
-- Contextualize your result with terms such as synthesis, reuse, recycling, referencing, citing, or appropriating;
+
+Then, choose one image that changes slowly over time, and put it coincidentally along your sound with no further editing.
+
 
 ## Part 3: (individually)
 
-Brief playback of result for everyone in class
+Present result to class (Length of result: max 30 sec).
