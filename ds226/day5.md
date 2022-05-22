@@ -15,6 +15,8 @@
 
 - Students raise wishes on what skills they need for the remaining two weeks  
 
+- Install VCV Rack software
+
 
 
 
