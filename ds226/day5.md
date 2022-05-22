@@ -9,7 +9,7 @@
 
 
 **8:00 - 8:50**  
-- "Check-in: Survey
+- "Check-in: [Midterm Survey](https://forms.office.com/r/NhrfQg2S2H)  
 
 - Students report on Final Project progress  
 
