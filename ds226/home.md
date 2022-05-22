@@ -121,7 +121,7 @@ Practice (4 hours)
 -	Present a 30sec clip to the class
 -	Interim review
 
-### Day #5: "Synthesis"
+### [Day #5: "Synthesis"](day5.md)
 
 Lecture (4 hours)
 -	Introduction: synthesis as a technique to process materials, in digital image and sound production
