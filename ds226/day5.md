@@ -1,7 +1,7 @@
 [DS226 Home](home.md)  
-[Assignment 4](assignment4.md)  
-[Detailed schedule day 4](ds226-schedule-4.pdf)  
-[Interim Review](interim.md)  
+[Assignment 5](assignment5.md)  
+[Detailed schedule day 5](ds226-schedule-5.pdf)  
+[Final Project](final.md)  
 
 # DS226. Day 5 Schedule
 ## "Synthesis"
@@ -65,7 +65,7 @@ _break_
   
 **16:20 - 17:10**  
 
-- Lecture and workshop by guest artist Annie Aries: "Analog synthesis - Designing sonic textures"
+- Workshop by guest artist [Annie Aries](http://anniearies.com/): "Analog synthesis - Designing sonic textures"
   
 
    
@@ -74,6 +74,6 @@ _break_
   
 **17:20 - 18:10**  
 
-- Lecture and workshop by guest artist Annie Aries: "Analog synthesis - Designing sonic textures"
+- Workshop by guest artist [Annie Aries](http://anniearies.com/): "Analog synthesis - Designing sonic textures"
 
 
