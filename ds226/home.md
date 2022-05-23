@@ -68,6 +68,7 @@ Digital emulator of analog synthesis, can also be used to process pre-existing s
 Introduction to microphone technique, field recording, analog/digital translation, stereo, audio editing, effects, mixing and mastering  
 
 ### Optional tools to select from
+- Reaper, digital audio workstation for sound design and music production [(reaper.fm)](https://reaper.fm)
 - Audiacity (audio editor)
 - Web Audio API (web audio)
 - Web GL (web graphics rendering)
