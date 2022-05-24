@@ -77,7 +77,7 @@ Introduction to microphone technique, field recording, analog/digital translatio
 
 ## Course Overview
 
-- [PDF full schedule](ds226-schedule-5.pdf)
+- [PDF full schedule](ds226-schedule-6.pdf)
 
 ### [Day #1: "Time"](day1.md)
 
