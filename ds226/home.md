@@ -7,7 +7,7 @@
 [Day 3](day3.md)  
 [Day 4](day4.md)  
 [Day 5](day5.md)  
-<!-- [Day 6](day6.md)   -->
+[Day 6](day6.md)   
 <!-- [Day 7](day7.md)   -->
 <!-- [Day 8](day8.md)   -->
 [Final Project](final.md)   
@@ -132,7 +132,7 @@ Practice (4 hours)
 -	Small exercise: create one sound that changes slowly over time. Then, create one image that changes slowly over time, then put the two coincidentally together.
 -	Present short media clip to the class
 
-### Day #6: "Translation I: Sound and Image"
+### [Day #6: "Translation I: Sound and Image"](day6.md)
 
 Lecture (4 hours)
 -	Introduction: translate from old to new. Translate from sound to image. Translate ideas. Translate experiences
