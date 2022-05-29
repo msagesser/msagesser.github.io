@@ -8,7 +8,7 @@
 [Day 4](day4.md)  
 [Day 5](day5.md)  
 [Day 6](day6.md)   
-<!-- [Day 7](day7.md)   -->
+[Day 7](day7.md)
 <!-- [Day 8](day8.md)   -->
 [Final Project](final.md)   
 [Interim Review](interim.md)  
@@ -56,6 +56,9 @@ The final grade is a letter grade.
 - [Import/Export between Premiere & Audition](https://helpx.adobe.com/audition/how-to/export-multitrack.html?playlist=/services/playlist.helpx/products:SG_AUDITION_1_1/learn-path:key-techniques/set-header:multitrack/playlist:topic/en_us.json&ref=helpx.adobe.com)
 - [Adobe Audition Tutorials](https://helpx.adobe.com/audition/tutorials.html)  
 - [Adobe Audition Help](https://helpx.adobe.com/support/audition.html)  
+- [Adobe Premiere Tutorials](https://helpx.adobe.com/premiere-pro/tutorials.html)
+
+
 
 ### Processing.org
 (including P5.js)  
@@ -142,7 +145,7 @@ Practice (4 hours)
 -	Small exercise: create a storyboard for a translation process in sound and image. 
 -	Present the storyboard to the class
 
-### Day #7: "Translation II: Space, spatial experience"
+### [Day #7: "Translation II: Space, spatial experience"](day7.md)
 
 Lecture (4 hours)
 -	Introduction: how do we experience space through digital media? Techniques for creating spaces in sound and image. Reuse, recycle, reprocess and remix spaces in digital media
@@ -152,7 +155,7 @@ Lecture (4 hours)
 Practice (4 hours)
 -	Work on final project: apply everything that you have learned so far in this course and create a spatial experience based on a circular economy of footage. Length: between 5 – 10 min.
 
-### Day #8: "Experience II"
+### [Day #8: "Experience II"](day8.md)
 
 Lecture (4 hours)
 -	Conclusion: how has our understanding of ‘experience’ changed at the end of this course?
