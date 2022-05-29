@@ -1,5 +1,5 @@
 [DS226 Home](home.md)  
-[Detailed schedule day 6](ds226-schedule-6.pdf)  
+[Detailed schedule (pdf)](ds226-schedule-6.pdf)  
 [Final Project](final.md)  
 
 # DS226. Day 7 Schedule
