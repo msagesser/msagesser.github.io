@@ -43,8 +43,7 @@ _lunch break_
 **14:00 - 14:50**  
 
 Tutorial:  
-Audio postproduction; mixing + mastering; creating space;
-creating spatial experiences (Adobe Audition)
+exporting & compression; image rations + formats; sound formats  
 
 
     
