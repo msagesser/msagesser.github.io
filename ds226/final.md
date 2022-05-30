@@ -58,11 +58,17 @@ Learning Objective 4:
 Present research of techniques that 'translate' ideas between multiple intangible materials.
 Create your audio-visual work.
 
+- Finish your project.
+- Be sure to do postproduction (color correction, creative style, audio mixing, reverb)
+- Export as 
+
 ### Part 5 - Presentation (group work + individual work)
 
 Present your project in the final review to the invited audience (group work).  
 
-Have a first version of your 'artist statement' ready (individual work):
+Have a first version of your 'artist statement' ready (individual work). Upload it to the Onedrive as a .txt / .rtf / .docx file (Folder: final project artist statement (draft)).  
+
+Your text should contain:  
 
 - what are circular materials in digital media?
 - what are your materials?
