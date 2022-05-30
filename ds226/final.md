@@ -46,7 +46,11 @@ Sign up for a meeting on the sign-up sheet on OneDrive by the end of the day, Ma
 ### Part 3 - Homework
 
 Homework week 3-4:  
-_To be announced_
+
+Homework:
+Finish major part of your final project; finish recording and processing all materials; start post production.  
+
+Meet with Marcel if necessary (meeting with Marcel is not mandatory this time)
 
 ### Part 4 - Process (group work)
 
@@ -54,9 +58,18 @@ Learning Objective 4:
 Present research of techniques that 'translate' ideas between multiple intangible materials.
 Create your audio-visual work.
 
-### Part 5 - Presentation (group work)
+### Part 5 - Presentation (group work + individual work)
 
-Present your project in the final review to the invited audience
+Present your project in the final review to the invited audience (group work).  
+
+Have a first version of your 'artist statement' ready (individual work):
+
+- what are circular materials in digital media?
+- what are your materials?
+- why, and how, are they circular? (or the result of a circular material economy?)
+- what is your main concept (very short!)
+- what did you learn from making this project (and from this class)? Name 1 thing!
+- how did it change you as an _experience designer?_
 
 ### Part 6 - Documentation (individually)
 
