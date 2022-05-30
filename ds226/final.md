@@ -62,11 +62,16 @@ Create your audio-visual work.
 - Be sure to do postproduction (color correction, creative style, audio mixing, reverb)
 - Export as 
 
+*Upload to OneDrive by Tuesday May 31, 8pm*
+
 ### Part 5 - Presentation (group work + individual work)
 
-Present your project in the final review to the invited audience (group work).  
+Present your project in the final review to the invited audience (group work).   
 
-Have a first version of your 'artist statement' ready (individual work). Upload it to the Onedrive as a .txt / .rtf / .docx file (Folder: final project artist statement (draft)).  
+Have a first version of your 'artist statement' ready (individual work). 
+
+*Upload the text to Onedrive by Wednesday June 1, 11am*  
+(upload as a .txt / .rtf / .docx file, put it in the folder: final project artist statement (draft))
 
 Your text should contain:  
 
