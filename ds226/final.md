@@ -60,9 +60,9 @@ Create your audio-visual work.
 
 - Finish your project.
 - Be sure to do postproduction (color correction, creative style, audio mixing, reverb)
-- Export as 
+- Export as H264 (format) / High Quality 1080p HD / image ratio 16:9. 
 
-*Upload to OneDrive by Tuesday May 31, 8pm*
+**Upload to OneDrive by Tuesday May 31, 8:00pm**
 
 ### Part 5 - Presentation (group work + individual work)
 
@@ -70,7 +70,7 @@ Present your project in the final review to the invited audience (group work).
 
 Have a first version of your 'artist statement' ready (individual work). 
 
-*Upload the text to Onedrive by Wednesday June 1, 11am*  
+**Upload the text to Onedrive by Wednesday June 1, 11am**  
 (upload as a .txt / .rtf / .docx file, put it in the folder: final project artist statement (draft))
 
 Your text should contain:  
@@ -81,6 +81,7 @@ Your text should contain:
 - what is your main concept (very short!)
 - what did you learn from making this project (and from this class)? Name 1 thing!
 - how did it change you as an _experience designer?_
+- max. 300 words (English)  
 
 ### Part 6 - Documentation (individually)
 
