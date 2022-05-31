@@ -62,7 +62,18 @@ Create your audio-visual work.
 - Be sure to do postproduction (color correction, creative style, audio mixing, reverb)
 - Export as H264 (format) / High Quality 1080p HD / image ratio 16:9. 
 
-**Upload to OneDrive by Tuesday May 31, 8:00pm**
+**Upload to OneDrive by Tuesday May 31, 8:00pm**  
+Please include a text file (word, .txt, .rtf) with:
+
+- title of the work (can be bilingual, Chinese/English, or can be only English)
+- title of all authors
+- credits:
+
+1) list all people filmed, all music used, all images/videos made by someone else, all sounds+images from Baidu/Bilibili/FreeSound.org, etc..) example "MUSIC X" by (user) ZGump876 from Freesound.org (2016).
+2) list all recording locations for your own materials (images + sounds)
+3) list any software code/examples by other people that you have used (example: "our own code is based on Example X by the Processing Foundation, by David Foneca)
+4) anything else that you would like to say in the credits (example: thanks to my friend X for doing/helping/... with ... // thanks to my cat/dog :) ... )  
+Put all credits just in a text file into the same folder – I will then create credits for you, so to save you some work!
 
 ### Part 5 - Presentation (group work + individual work)
 
