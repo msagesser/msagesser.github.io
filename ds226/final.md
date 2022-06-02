@@ -96,4 +96,28 @@ Your text should contain:
 
 ### Part 6 - Documentation (individually)
 
-Document your project, write a short 'artist statement', and submit it to OneDrive including accompanying documentary materials (sketches, drafts, drawings, notes, concept books, story boards, etc.)
+Complete these tasks until Friday, Jun 3, 23:59 (midnight):  
+  
+(1)
+If your final project needs revision or if you were not happy with yesterday's version, you can revise it and upload it again. If you do that, please let me know so I can assist you.
+
+(2)
+Everybody revise and re-submit your artist statement. If you find your draft is already enough good, then you can just resubmit it as it is (upload it to OneDrive / final project artist statements / revised). If you want, you can address yesterday's feedback in the revised version.
+
+(3)
+Documentation materials of your final project in DS226:  
+  
+Upload a folder with your name (to OneDrive / final project documentation)
+containing the following materials from your final projects:  
+(each student creates their own folder -- even if you were working with a group, your notes/sketches/etc. are mostly your individual contribution):
+  
+- 1 still image from your video (each person takes their favorite still from your video)
+- Scans of paper sketches
+- Notes
+- Drawings / concepts / storyboards / diagrams
+- Software code
+- Screenshots of some VCV rack settings or so
+- 1 important raw video/image that you used
+- 1 important raw sound/music that you used
+- Any additional thing that you want to include
+(of course, not everybody will have all these materials, just make a reasonable selection of some of these things and upload them – it's important that every person uploads some things – this is how you demonstrate your process which is a part of your final grade)
