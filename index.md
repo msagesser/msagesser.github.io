@@ -8,7 +8,7 @@
 Assistant Professor of Media Arts and Technology  
 School of Design, Southern University of Science and Technolgy, Shenzhen
 
-[Website School of Design](https://designschool.sustech.edu.cn/academics/faculty)  
+[Website Marcel Zaes Sagesser at the School of Design](https://designschool.sustech.edu.cn/academics/faculty)  
 [Artist website Marcel Zaes](https://marcelzaes.com)
 
 #### Courses currently taught the School of Design
