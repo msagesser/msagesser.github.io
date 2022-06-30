@@ -1,6 +1,6 @@
 [DS226 Home](home.md)  
 # Emerging Definitions
-
+Definitions as assembled by the students of DS226 in the first week
 
 ## Digital Media
 
