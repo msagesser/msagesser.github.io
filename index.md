@@ -7,9 +7,17 @@
 #### Marcel Zaes Sagesser
 Assistant Professor of Media Arts and Technology  
 School of Design, Southern University of Science and Technolgy, Shenzhen
-
 [Website Marcel Zaes Sagesser at the School of Design](https://designschool.sustech.edu.cn/academics/faculty)  
 [Website artist *Marcel Zaes*](https://marcelzaes.com)
+
+#### Team
+TA:  
+张镕正 ZHANG Rongzheng  
+
+RA:  
+屈涵雨 QU Hanyu  
+
+许冰煌 XU Binghuang  
 
 #### Courses currently taught the School of Design
 - [DS345 Sound Design (Fall 2022)](ds345)
