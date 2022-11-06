@@ -12,4 +12,5 @@ School of Design, Southern University of Science and Technolgy, Shenzhen
 [Website artist *Marcel Zaes*](https://marcelzaes.com)
 
 #### Courses currently taught the School of Design
+- [DS345 Sound Design (Fall 2022)](ds345/home.md)
 - [DS226 Circular Products: Experience (Spring 2022)](ds226/home.md)
