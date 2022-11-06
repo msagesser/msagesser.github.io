@@ -11,13 +11,13 @@ School of Design, Southern University of Science and Technolgy, Shenzhen
 [Website artist *Marcel Zaes*](https://marcelzaes.com)
 
 #### Team
-TA:  
-张镕正 ZHANG Rongzheng  
-
 RA:  
 屈涵雨 QU Hanyu  
 
 许冰煌 XU Binghuang  
+
+TA for DS345:  
+张镕正 ZHANG Rongzheng  
 
 #### Courses currently taught the School of Design
 - [DS345 Sound Design (Fall 2022)](ds345)
