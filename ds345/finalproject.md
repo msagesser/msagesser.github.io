@@ -18,6 +18,7 @@ Each group will present a larger creative project primarily in sound: an audio w
 
 #### Accompanying materials:
 - map of the planned walking route
+- script of the planned sound piece
 - title, in response to "UNWALKING"
 - description text (max 400 words)
 
@@ -27,5 +28,5 @@ Each group will present a larger creative project primarily in sound: an audio w
 - The visual presentation, together with the sound, must give a full experience of the work, so that it can be exhibited elsewhere in the future
 
 #### Interim Review:
-- A rough draft of all parts of the project is expected.
+- A rough draft of all parts of the project is expected
 - Time for the interim review: 15 min per group (5 min of sound playback with or without visuals, 5 min of presentation, 5 min of Q&A)
