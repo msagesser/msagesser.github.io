@@ -3,13 +3,13 @@ Fall 2022
 
 [back](index.md)  
 
-### Final Project
+## Final Project
 
 Each group will present a larger creative project primarily in sound: an audio walk that is conceptualized, produced, presented, and documented at high quality.  
 
 #### Audio piece:
-- Duration: 15min for headphones (25min for outdoor speakers)
-- format: 4-channel audio (2-channel bluetooth headphones, 2-channel outdoor loudspeaker)
+- Duration: 15 min piece for headphones (content) and 2x 30sec-5min loop for starting and ending loudspeaker (atmosphere)
+- format: piece for bluetooth headphones (2-channel audio), start loop for outdoor speaker (1-channel), ending loop for outdoor speaker (1-channel)
 - it has to respond, in some way, to the UABB proposal topic: Unwalking offers an event that engages the echo of the river flowing by the village that connects and transforms into an ecological system beyond the village. 
 - the genre is free: it can be an audio story telling, a museum-style audio guide, an audio tour, a soundscape composition, a sonic architecture, a narration/narrative, an abstract piece, etc. (whatever genre is chosen, the expectation is the highest possible quality)
 - can be a fixed composition / sound design, or an interactive, non-linear sound design
