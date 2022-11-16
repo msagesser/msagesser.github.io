@@ -20,4 +20,4 @@ Fall 2022
 [Tone.js on Github](https://tonejs.github.io/)   
 
 #### Production Sketch for Sound Walk
-![Alternate image text](DS345-sound-walk.jpg)  
+![Sound Walk Sketch](DS345-sound-walk.jpg)  
