@@ -17,8 +17,8 @@ Fall 2022
 [VCV Rack 2 - Manual and Tutorials](https://vcvrack.com/manual/)  
 
 ### Writing sound in code (programming)
-[Tone.js](https://tonejs.github.io/)  
+[Tone.js](https://tonejs.github.io/)   
 
 
-![Alternate image text](https://someurl/imagelocation/image.png)
-![Alternate image text](DS345-sound-walk)
+![Alternate image text](msagesser.github.io/ds345/DS345-sound-walk.jpg)  
+![Alternate image text](DS345-sound-walk)  
