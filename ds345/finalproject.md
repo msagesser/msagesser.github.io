@@ -23,6 +23,7 @@ Each group will present a larger creative project primarily in sound: an audio w
 - description text (max 400 words)
 
 <img src="[[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://msagesser.github.io/ds345/DS345-sound-walk.jp)](https://msagesser.github.io/ds345/DS345-sound-walk.jpg)" width=10% height=10%>
+
 ![Mockup of UI for Sound Walk](mockup-UI.png)  
   
 #### App UI / Web Audio Player
