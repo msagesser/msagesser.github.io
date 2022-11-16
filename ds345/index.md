@@ -21,4 +21,4 @@ Fall 2022
 
 
 ![Alternate image text](msagesser.github.io/ds345/DS345-sound-walk.jpg)  
-![Alternate image text](DS345-sound-walk)  
+![Alternate image text](DS345-sound-walk.jpg)  
