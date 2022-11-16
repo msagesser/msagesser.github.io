@@ -1,4 +1,5 @@
 # DS345 Sound Design
+# Designing a Sound Walk for the Hong Kong & Shenzhen Bi-City Biennale of Urbanism/Architecture (UABB2022)
 Fall 2022  
 
 [Course overview](https://sustechsd-my.sharepoint.com/:b:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/EbfTFr-KuvVJlKsDVvnEV5oBfEx0JhLsL4cdgevBU9O4SQ?e=osQRMp)  
@@ -20,5 +21,4 @@ Fall 2022
 [Tone.js](https://tonejs.github.io/)   
 
 
-![Alternate image text](msagesser.github.io/ds345/DS345-sound-walk.jpg)  
 ![Alternate image text](DS345-sound-walk.jpg)  
