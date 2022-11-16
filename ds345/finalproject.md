@@ -21,10 +21,6 @@ Each group will present a larger creative project primarily in sound: an audio w
 - script of the planned sound piece
 - title, in response to "UNWALKING"
 - description text (max 400 words)
-
-<img src="[[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://msagesser.github.io/ds345/DS345-sound-walk.jp)](https://msagesser.github.io/ds345/DS345-sound-walk.jpg)" width=10% height=10%>
-
-![Mockup of UI for Sound Walk](mockup-UI.png)  
   
 #### App UI / Web Audio Player
 Each project must include an App UI / Web Audio Player that is made by you. The minimal requirement is a "start" button that starts the sound walk file (mp3), and a simple, professional-looking user interface for mobile phones, made with HTML, CSS, JavaScript, and Web Audio API (Tone.js).
@@ -44,3 +40,5 @@ With your final project, please clearly demonstrate your skill/mastery according
 #### Interim Review:
 - A rough draft of all parts of the project is expected
 - Time for the interim review: 15 min per group (5 min of sound playback with or without visuals, 5 min of presentation, 5 min of Q&A)
+
+![Mockup of UI for Sound Walk](mockup-UI.png)  
