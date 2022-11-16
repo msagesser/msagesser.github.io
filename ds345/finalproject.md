@@ -22,6 +22,7 @@ Each group will present a larger creative project primarily in sound: an audio w
 - title, in response to "UNWALKING"
 - description text (max 400 words)
 
+<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://msagesser.github.io/ds345/DS345-sound-walk.jpg)" width=10% height=10%>
 ![Mockup of UI for Sound Walk](mockup-UI.png | width=100)  
   
 #### App UI / Web Audio Player
