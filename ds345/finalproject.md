@@ -22,10 +22,20 @@ Each group will present a larger creative project primarily in sound: an audio w
 - title, in response to "UNWALKING"
 - description text (max 400 words)
 
+#### App UI / Web Audio Player
+Each project must include an App UI / Web Audio Player that is made by you. The minimal requirement is a "start" button that starts the sound walk file (mp3), and a simple, professional-looking user interface for mobile phones, made with HTML, CSS, JavaScript, and Web Audio API (Tone.js).
+
 #### Visual documentation:
 - A visual interpretation of your audio walk must be produced as part of the final project
 - format and genre are free: it can be a video that includes the actual audio piece in its sound track, or it can be a series of slide shows and graphical materials, such as time and space mappings, catalogued pictures, etc, or it can be a website (whatever format/genre is chosen, the highest quality is expected)
 - The visual presentation, together with the sound, must give a full experience of the work, so that it can be exhibited elsewhere in the future
+
+#### Address Learning Goals:
+With your final project, please clearly demonstrate your skill/mastery according to the four learning goals:
+1.	Critically describe the potential of sound in media applications
+2.	Apply listening skill, audio and affect vocabulary to describe sound
+3.	Present experimentation in sound generation, composition, and editing
+4.	Propose, craft, and deliver their own high-quality creative project in sound
 
 #### Interim Review:
 - A rough draft of all parts of the project is expected
