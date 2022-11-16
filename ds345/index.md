@@ -18,3 +18,7 @@ Fall 2022
 
 ### Writing sound in code (programming)
 [Tone.js](https://tonejs.github.io/)  
+
+
+![Alternate image text](https://someurl/imagelocation/image.png)
+![Alternate image text](DS345-sound-walk)
