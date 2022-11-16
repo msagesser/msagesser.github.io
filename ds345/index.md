@@ -2,6 +2,8 @@
 ## Designing a Sound Walk for the Hong Kong & Shenzhen Bi-City Biennale of Urbanism/Architecture (UABB2022)
 Fall 2022  
 
+#### Resources
+
 [Course overview](https://sustechsd-my.sharepoint.com/:b:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/EbfTFr-KuvVJlKsDVvnEV5oBfEx0JhLsL4cdgevBU9O4SQ?e=osQRMp)  
 [Shared OneDrive Folder](https://sustechsd-my.sharepoint.com/:f:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/ElidxVseY31NmgSjtAWDrXUB9vPWbjcxlGBdlE-ZL5-7aA?e=vv9OPI)  
 [Approaches to Sound](https://sustechsd-my.sharepoint.com/:b:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/Edci-vUlFpVOkMFwf9ilNp8BM77_uFVZbx0Tue1Oo9fsBg?e=2a9XxE)  
@@ -9,7 +11,8 @@ Fall 2022
 [Learning Goals](learninggoals)  
 [Final Project assignment](finalproject.md)
 
-### Adobe Audition
+#### Software & Tech Resources
+##### Adobe Audition
 [Adobe Audition - Tutorials EN](https://helpx.adobe.com/audition/tutorials.html)  
 [Adobe Audition - Tutorials CN](https://helpx.adobe.com/cn/audition/tutorials.html)  
 
