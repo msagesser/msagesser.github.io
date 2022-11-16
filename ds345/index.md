@@ -17,7 +17,7 @@ Fall 2022
 [Adobe Audition - Tutorials CN](https://helpx.adobe.com/cn/audition/tutorials.html)  
 [VCV Rack 2 - Download](https://vcvrack.com/)  
 [VCV Rack 2 - Manual and Tutorials](https://vcvrack.com/manual/)  
-[Web Audio API - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+[Web Audio API - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)  
 [Tone.js on Github](https://tonejs.github.io/)   
 
 #### Production Sketch for Sound Walk
