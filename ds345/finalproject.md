@@ -22,6 +22,8 @@ Each group will present a larger creative project primarily in sound: an audio w
 - title, in response to "UNWALKING"
 - description text (max 400 words)
 
+![Mockup of UI for Sound Walk](mockup-UI.png)   
+  
 #### App UI / Web Audio Player
 Each project must include an App UI / Web Audio Player that is made by you. The minimal requirement is a "start" button that starts the sound walk file (mp3), and a simple, professional-looking user interface for mobile phones, made with HTML, CSS, JavaScript, and Web Audio API (Tone.js).
 
