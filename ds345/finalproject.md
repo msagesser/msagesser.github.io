@@ -41,4 +41,4 @@ With your final project, please clearly demonstrate your skill/mastery according
 - A rough draft of all parts of the project is expected
 - Time for the interim review: 15 min per group (5 min of sound playback with or without visuals, 5 min of presentation, 5 min of Q&A)
 
-![Mockup of UI for Sound Walk](mockup-UI.png)  
+![Mockup of UI for Sound Walk](files/mockup-UI.png)  
