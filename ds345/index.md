@@ -4,7 +4,7 @@ Fall 2022
 
 #### Resources
 
-[Course overview](https://sustechsd-my.sharepoint.com/:b:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/EbfTFr-KuvVJlKsDVvnEV5oBfEx0JhLsL4cdgevBU9O4SQ?e=osQRMp)  
+[Course overview](files/DS345-overview.pdf)  
 [Guest Talks in DS345](files/DS345-guest-talks.jpg)  
 [Shared OneDrive Course Folder (password protected)](https://sustechsd-my.sharepoint.com/:f:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/ElidxVseY31NmgSjtAWDrXUB9vPWbjcxlGBdlE-ZL5-7aA?e=vv9OPI)  
 [Approaches to Sound](https://sustechsd-my.sharepoint.com/:b:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/Edci-vUlFpVOkMFwf9ilNp8BM77_uFVZbx0Tue1Oo9fsBg?e=2a9XxE)  
@@ -21,4 +21,4 @@ Fall 2022
 [Tone.js on Github](https://tonejs.github.io/)   
 
 #### Production Sketch for Sound Walk
-![Sound Walk Sketch](DS345-sound-walk.jpg)  
+![Sound Walk Sketch](files/DS345-sound-walk.jpg)  
