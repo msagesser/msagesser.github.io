@@ -62,6 +62,7 @@ On December 1, morning, each group will have 15 minutes to present their project
 - 5min of sound walk
 - 5min of the group introducing the project
 - 5min of Q&A with the audience
+If the weather allows, the final review will take place outdoors on the sidewalk. Prepare accordingly: no screen will be available to present any slides. If you want to show slides or graphic materials, you need to be creative and prepare yourselves. You can show things on a tablet an walk around, or you can print a few A3 "slides" that you can show, if you need that.
 
 #### Visual Documentation/Presentation Submission
 By Tuesday midnight (23:59) on Dec 6, 2022, upload your visual documentation/presentation/"teaser" to the OneDrive under "submission visual presentation / group name".   
