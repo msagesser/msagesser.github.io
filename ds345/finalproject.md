@@ -27,21 +27,44 @@ Each group will present a larger creative project primarily in sound: an audio w
 #### Web UI / Web Audio Player
 Each project must include an App UI / Web Audio Player that is made by you. The minimal requirement is a "start" button that starts the sound walk file (mp3), and a simple, professional-looking user interface for mobile phones, made with HTML, CSS, JavaScript, and Web Audio API (Tone.js).
 
-#### Visual Presentation of the Project
+#### Visual Presentation of the Project ("Teaser")
 - A visual interpretation of your sound walk must be produced as part of the final project
 - format and genre are open: it can be a video that includes the actual audio piece in its sound track, or it can be a series of slide shows and graphical materials, such as time and space mappings, catalogued pictures, etc; it can be an animated poster, or it can be a website (whatever format/genre is chosen, the highest quality is expected)
 - The duration of the visual presentation should be around 1-3 min (or longer, if desired and discussed with the teacher)
 - The visual presentation, together with the sound, must give a good experience of the sound walk, so that it can be exhibited elsewhere in the future (in physical exhibitions and online)
 
-#### Address Learning Goals:
+#### Address Learning Goals
 With your final project, please clearly demonstrate your skill/mastery according to the four learning goals:
 1.	Critically describe the potential of sound in media applications
 2.	Apply listening skill, audio and affect vocabulary to describe sound
 3.	Present experimentation in sound generation, composition, and editing
 4.	Propose, craft, and deliver their own high-quality creative project in sound
 
-#### Interim Review:
+#### Interim Review
 - A rough draft of all parts of the project is expected
 - Time for the interim review: 15 min per group (5 min of sound playback with or without visuals, 5 min of presentation, 5 min of Q&A)
+
+#### Final Project Submission
+Upload the following materials by *Wednesday midnight (23:59 on Nov 30, 2022)*, to the OneDrive folder, under "submission final project / group name":  
+(in one or several PDF):
+- Title, in response to "UNWALKING"
+- Description text (max 400 words English + equivalent Chinese)
+- Map of the walking route
+- Script of the sound piece
+- Flow chart of the Web UI 
+- Statement/note indicating which team members made which project parts  
+
+(upload on the public web server by the same date/time):
+- web UI project including sound files and other required media  
+
+#### Final Review
+On December 1, morning, each group will have 15 minutes to present their project to an audience that doesn't know the projects yet. These 15 minutes are ideally split as follows:
+- 5min of sound walk
+- 5min of the group introducing the project
+- 5min of Q&A with the audience
+
+#### Visual Documentation/Presentation Submission
+By Tuesday midnight (23:59) on Dec 6, 2022, upload your visual documentation/presentation/"teaser" to the OneDrive under "submission visual presentation / group name".   
+
 
 ![Mockup of UI for Sound Walk](files/mockup-UI.png)  
