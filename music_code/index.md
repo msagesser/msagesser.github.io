@@ -13,6 +13,6 @@ msagesser@sustech.edu.cn
 https://marcelzaes.com
 https://msagesser.github.io/
 
-![School logo](https://designschool.sustech.edu.cn/themes/en/default/assets/img/logo.svg)
+[School logo](https://designschool.sustech.edu.cn/themes/en/default/assets/img/logo.svg)
 
 https://designschool.sustech.edu.cn/themes/en/default/assets/img/logo.svg
