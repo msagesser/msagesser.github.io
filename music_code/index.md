@@ -1,6 +1,6 @@
 ![logo](../logo.svg)
 
-#### Algorithmic Cultures Around the Globe
+### Algorithmic Cultures Around the Globe
 # Music & Code
 
 Guest lecture & workshop  
@@ -15,8 +15,8 @@ msagesser [at] sustech [dot] edu.cn
 https://marcelzaes.com  
 https://msagesser.github.io/  
 
-
-## Today
+<br><br><br>
+# Today
 
 1_  
 Prehistory:  
@@ -44,11 +44,9 @@ What can we learn from code-based music?
 
 
 
-
+<br><br><br>
 # Prehistory:
-# The Mechanization of Music 
-# Sly and the Family Stone
-# In Time
+### The Mechanization of Music: Sly and the Family Stone's *In Time*
 1973
 
 https://www.youtube.com/watch?v=6Mld7eSaydI  
@@ -67,9 +65,9 @@ https://io808.com/
 
 
 
-
+<br><br><br>
 # Bitumen / Pulsations [Bitumen]
-An audiovisual performance that combines generative digital music with four viola players using an original graphic notation and featuring a braid.live algorithm, by Marcel Zaes  
+### An audiovisual performance that combines generative digital music with four viola players using an original graphic notation and featuring a braid.live algorithm, by Marcel Zaes  
 
   
 **Documentation**  
@@ -90,10 +88,9 @@ https://www.ableton.com/ (Ableton Live DAW digital audio workstation)
 
 
   
-
+<br><br><br>
 # Music & AI:  
-# Google’s Research Project   
-# *Tensorflow + Magenta*  
+### Google’s Research Project *Tensorflow + Magenta*  
 
   
 https://magenta.tensorflow.org/  
@@ -111,8 +108,7 @@ https://experiments.withgoogle.com/ai/beat-blender/view/about
   
 
 
-<br><br><br><br>
-
+<br><br><br>
 # Workshop:   
 ### Coding music *with Strudel@TidalCycles*  
   
