@@ -9,10 +9,10 @@ March 7, 2023
   
 By
 #### Marcel Zaes Sagesser
-Artist & Researcher in Digital Sound
-Assist. Prof. at SUSTech School of Design, Shenzhen
-msagesser@sustech.edu.cn
-https://marcelzaes.com
-https://msagesser.github.io/
+Artist & Researcher in Digital Sound  
+Assist. Prof. at SUSTech School of Design, Shenzhen  
+msagesser@sustech.edu.cn  
+https://marcelzaes.com  
+https://msagesser.github.io/  
 
 
