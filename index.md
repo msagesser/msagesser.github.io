@@ -4,21 +4,30 @@
 [//]: # (Tags: #Sustech #sound #media #arts #technology)  
 [//]: # (Date: June 2, 2022)  
 
-#### Marcel Zaes Sagesser
+# Sound Studies Group
+at SUSTech School of Design, Shenzhen
+
+## Team
+
+#### Marcel Zaes SAgesser
 Assistant Professor of Media Arts and Technology  
-School of Design, Southern University of Science and Technolgy, Shenzhen  
 [Website Marcel Zaes Sagesser at the School of Design](https://designschool.sustech.edu.cn/academics/faculty)  
 [Website artist *Marcel Zaes*](https://marcelzaes.com)
 
-#### Team
-RA:  
-屈涵雨 QU Hanyu  
+#### QU Hanyu 屈涵雨
+Research assistant
 
-许冰煌 XU Binghuang  
+#### XU Binghuang 许冰煌
+Research assistant
 
-TA for DS345:  
-张镕正 ZHANG Rongzheng  
+#### ZHANG Rongzheng 张镕正 
+TA for DS345, Fall 2022
+#### DONG Chengxiao 董承霄
+TA for DS226, Spring 2023
 
-#### Courses currently taught the School of Design
+#### Courses currently taught at the School of Design
 - [DS345 Sound Design (Fall 2022)](ds345)
 - [DS226 Circular Products: Experience (Spring 2022)](ds226/home.md)
+
+#### Guest course & workshop 'Music & Code' @NYU Shanghai
+- link
