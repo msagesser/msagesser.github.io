@@ -9,7 +9,8 @@ at SUSTech School of Design, Shenzhen
 
 ## Team
 
-#### Marcel Zaes SAgesser
+#### Marcel Zaes Sagesser
+Artist & Researcher in Digital Sound
 Assistant Professor of Media Arts and Technology  
 [Website Marcel Zaes Sagesser at the School of Design](https://designschool.sustech.edu.cn/academics/faculty)  
 [Website artist *Marcel Zaes*](https://marcelzaes.com)
@@ -29,5 +30,5 @@ TA for DS226, Spring 2023
 - [DS345 Sound Design (Fall 2022)](ds345)
 - [DS226 Circular Products: Experience (Spring 2022)](ds226/home.md)
 
-#### Guest course & workshop 'Music & Code' @NYU Shanghai
-- link
+#### Guest courses & workshops
+- [Music & Code @NYU Shanghai, 2023](music_code)
