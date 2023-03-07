@@ -11,7 +11,7 @@ By
 #### Marcel Zaes Sagesser
 Artist & Researcher in Digital Sound  
 Assist. Prof. at SUSTech School of Design, Shenzhen  
-msagesser@sustech.edu.cn  
+msagesser [at] sustech [dot] edu.cn  
 https://marcelzaes.com  
 https://msagesser.github.io/  
 
