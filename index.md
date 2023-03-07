@@ -5,7 +5,8 @@
 [//]: # (Date: June 2, 2022)  
 
 # Sound Studies Group
-at SUSTech School of Design, Shenzhen
+at SUSTech School of Design, Shenzhen  
+![logo](logo.svg)
 
 ## Team
 
