@@ -4,9 +4,11 @@
 [//]: # (Tags: #Sustech #sound #media #arts #technology)  
 [//]: # (Date: June 2, 2022)  
 
+
+![logo](logo.svg)  
+
 # Sound Studies Group
 at SUSTech School of Design, Shenzhen  
-![logo](logo.svg)
 
 ## Team
 
