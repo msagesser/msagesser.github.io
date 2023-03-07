@@ -112,9 +112,8 @@ https://experiments.withgoogle.com/ai/beat-blender/view/about
 
 
 
-## Workshop:   
-## Coding music   
-## *with Strudel@TidalCycles*  
+# Workshop:   
+### Coding music *with Strudel@TidalCycles*  
   
 https://strudel.tidalcycles.org/    
 
