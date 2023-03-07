@@ -45,7 +45,7 @@ What can we learn from code-based music?
 
 
 <br><br><br>
-# Prehistory:
+# Prehistory
 ### The Mechanization of Music: Sly and the Family Stone's *In Time*
 1973
 
@@ -82,19 +82,19 @@ https://en.wikipedia.org/wiki/Gongche_notation
 https://www.sciencedirect.com/science/article/abs/pii/S0045790615003596  
 
 **Making of drum beats**  
-http://braid.live/ (Code package in Python 3)  
+(http://braid.live/) (Code package in Python 3)  
 https://cycling74.com/  (Max by Cycling’74 for Interactive Digital Creation)  
 https://www.ableton.com/ (Ableton Live DAW digital audio workstation)  
 
 
   
 <br><br><br>
-# Music & AI:  
+# Music & AI
 ### Google’s Research Project *Tensorflow + Magenta*  
 
   
-https://magenta.tensorflow.org/  
-https://magenta.tensorflow.org/demos/web/  
+[https://magenta.tensorflow.org/](https://magenta.tensorflow.org/)  
+https://magenta.tensorflow.org/demos/web/ (https://magenta.tensorflow.org/demos/web/)    
 
 **Demo of Google’s Tensorflow**  
 https://www.youtube.com/watch?v=ZRnbbtqxBEc  
@@ -109,7 +109,7 @@ https://experiments.withgoogle.com/ai/beat-blender/view/about
 
 
 <br><br><br>
-# Workshop:   
+# Workshop
 ### Coding music *with Strudel@TidalCycles*  
   
 https://strudel.tidalcycles.org/    
