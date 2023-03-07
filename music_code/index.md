@@ -93,16 +93,16 @@ What can we learn from code-based music?
 ### Google’s Research Project *Tensorflow + Magenta*  
 
   
-[https://magenta.tensorflow.org/](https://magenta.tensorflow.org/)  
-https://magenta.tensorflow.org/demos/web/ (https://magenta.tensorflow.org/demos/web/)    
+[https://magenta.tensorflow.org/](https://magenta.tensorflow.org/)   
+[https://magenta.tensorflow.org/demos/web/](https://magenta.tensorflow.org/demos/web/)    
 
 **Demo of Google’s Tensorflow**  
-https://www.youtube.com/watch?v=ZRnbbtqxBEc  
+[https://www.youtube.com/watch?v=ZRnbbtqxBEc](https://www.youtube.com/watch?v=ZRnbbtqxBEc)  
   
 **Beat Blender example**  
-https://experiments.withgoogle.com/ai/beat-blender/view/  
-https://magenta.tensorflow.org/music-vae  
-https://experiments.withgoogle.com/ai/beat-blender/view/about  
+[https://experiments.withgoogle.com/ai/beat-blender/view/](https://experiments.withgoogle.com/ai/beat-blender/view/)  
+[https://magenta.tensorflow.org/music-vae](https://magenta.tensorflow.org/music-vae)  
+[https://experiments.withgoogle.com/ai/beat-blender/view/about](https://experiments.withgoogle.com/ai/beat-blender/view/about)  
 
 
   
@@ -112,7 +112,7 @@ https://experiments.withgoogle.com/ai/beat-blender/view/about
 # Workshop
 ### Coding music *with Strudel@TidalCycles*  
   
-https://strudel.tidalcycles.org/    
+[https://strudel.tidalcycles.org/](https://strudel.tidalcycles.org/)    
 
 
 
