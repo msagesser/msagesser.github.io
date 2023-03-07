@@ -1,4 +1,4 @@
-![logo](logo.svg)
+![logo](../logo.svg)
 
 #### Algorithmic Cultures Around the Globe
 # Music & Code
