@@ -20,7 +20,7 @@ Assistant Professor of Media Arts and Technology
 **QU Hanyu 屈涵雨**  
 Research assistant  
   
-**XU Binghuang 许冰煌  
+**XU Binghuang 许冰煌**  
 Research assistant  
   
 **ZHANG Rongzheng 张镕正**  
