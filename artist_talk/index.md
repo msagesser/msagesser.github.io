@@ -16,31 +16,31 @@ msagesser [at] sustech [dot] edu.cn
 
 <br><br>
 
-###1_  
+### 1_  
 Introduction:  
-What is Technology-Informed Sound Making?   
+*What is Technology-Informed Sound Making?*   
 Connections between Art, Music, and Technology  
   
-###2_   
+### 2_   
 Artwork:  
-Parallel Prints  
+*Parallel Prints*  
 Music work    
 for Yarn/Wire, New York 2022  
 [https://marcelzaes.com/Parallel-Prints](https://marcelzaes.com/Parallel-Prints)  
 
-###3_  
+### 3_  
 Artwork:  
-In Idle Mode (Noise)  
+*In Idle Mode (Noise)*  
 Installation work  
 for the Canton Food Museum, Guangzhou-Shunde, China
 [https://marcelzaes.com/In-Idle-Mode-Noise](https://marcelzaes.com/In-Idle-Mode-Noise)  
   
-###4_  
+### 4_  
 Wrapup:   
-What can we learn from technology-informed sound practices?  
+*What can we learn from technology-informed sound practices?*  
 
 
-###5_  
+### 5_  
 Q&A   
   
   
