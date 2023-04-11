@@ -34,5 +34,5 @@ TA for DS226, Spring 2023
 - [DS226 Circular Products: Experience (Spring 2022)](ds226/home.md)
 
 #### Guest courses & workshops
-- [Artist Talk @CSUSB San Bernardino, 2023](artist_talk)
+- [Technology-Informed Sound Practices: Artist Talk @CSUSB, 2023](artist_talk)
 - [Music & Code @NYU Shanghai, 2023](music_code)
