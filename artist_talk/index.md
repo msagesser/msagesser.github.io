@@ -1,11 +1,10 @@
 ![logo](../logo.svg)
 
-### Algorithmic Cultures Around the Globe
-# Music & Code
+# Technology-Informed Sound Practice: Artist Talk
 
-Guest lecture & workshop  
-In the course “Algorithmic Cultures Around the Globe” by Daniella Gáti, NYU Shanghai  
-March 7, 2023  
+Artist Talk   
+at CSUSB    
+April 11, 2023  
   
 By\
 **Marcel Zaes Sagesser**\
@@ -19,28 +18,32 @@ msagesser [at] sustech [dot] edu.cn
 # Today
 
 1_  
-Prehistory:  
-The Mechanization of Music   
-Sly and the Family Stone: In Time  
+Introduction:  
+What is Technology-Informed Sound Making?   
   
 2_   
-Presentation:  
-Bitumen by Marcel Zaes   
-for viola quartet and algorithmic drum beats  
+Artwork:  
+Parallel Prints  
+Music work    
+for Yarn/Wire, New York 2022  
   
 3_  
-Music & AI:  
-Google’s Research Project   
-Tensorflow + Magenta  
+Artwork:  
+In Idle Mode (Noise)  
+Installation work  
+for the Canton Food Museum, Guangzhou-Shunde, China
   
 4_  
-Workshop:   
-Coding music   
-with Strudel@TidalCycles  
-  
-  
 Wrapup:   
-What can we learn from code-based music?  
+What can we learn from technology-informed sound practices?  
+
+
+5_  
+Q&A   
+  
+  
+  
+
 
 
 
