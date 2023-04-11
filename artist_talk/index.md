@@ -32,7 +32,7 @@ for Yarn/Wire, New York 2022
 Artwork:  
 *In Idle Mode (Noise)*  
 Installation work  
-for the Canton Food Museum, Guangzhou-Shunde, China
+for the Canton Food Museum, Guangzhou-Shunde, China  
 [https://marcelzaes.com/In-Idle-Mode-Noise](https://marcelzaes.com/In-Idle-Mode-Noise)  
   
 ### 4_  
