@@ -14,31 +14,30 @@ msagesser [at] sustech [dot] edu.cn
 [https://marcelzaes.com](https://marcelzaes.com)  
 [https://msagesser.github.io/](https://msagesser.github.io/)  
 
-<br><br><br>
-# Today
+<br><br>
 
-1_  
+###1_  
 Introduction:  
 What is Technology-Informed Sound Making?   
   
-2_   
+###2_   
 Artwork:  
 Parallel Prints  
 Music work    
 for Yarn/Wire, New York 2022  
   
-3_  
+###3_  
 Artwork:  
 In Idle Mode (Noise)  
 Installation work  
 for the Canton Food Museum, Guangzhou-Shunde, China
   
-4_  
+###4_  
 Wrapup:   
 What can we learn from technology-informed sound practices?  
 
 
-5_  
+###5_  
 Q&A   
   
   
