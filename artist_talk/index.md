@@ -45,7 +45,7 @@ Q&A
   
 
 
-
+<!-- 
 
 <br><br><br>
 # Prehistory
@@ -117,5 +117,5 @@ Q&A
   
 [https://strudel.tidalcycles.org/](https://strudel.tidalcycles.org/)    
 
-
+ -->
 
