@@ -82,8 +82,8 @@ Check-out: what have you learned? Summary: what have we done? What are the learn
 
 
 | Day 1  | Day 2 |
-| Topic ||
 | --------  | -------- |
+| Topic ||
 | data      | Some long data that <br /> spans multiple lines |
 | data      | Some long data that <br /> spans multiple lines |
 | data      | Some long data that <br /> spans multiple lines |
