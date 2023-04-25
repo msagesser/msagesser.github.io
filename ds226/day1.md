@@ -74,8 +74,14 @@ Check-out: what have you learned? Summary: what have we done? What are the learn
 
 
 \
-\
+
 | Header 1 | Header 2 | Header 3 |
 | --- | --- | --------- |
 | Some data | | Cell 3 |
 | data | Some long data here | more data | 
+
+\
+| Header 1  | Header 2 |
+| --------  | -------- |
+| data      | Some long data that <br /> spans multiple lines |
+\
