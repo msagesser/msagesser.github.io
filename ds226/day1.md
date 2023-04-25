@@ -86,6 +86,6 @@ Check-out: what have you learned? Summary: what have we done? What are the learn
 | Topic ||
 | ---------------- |
 | data      | Some long data that <br /> spans multiple lines |
-| data      | Some long data that <br /> spans multiple lines |
+| data      | Some long data that <br /> spans multiple lines | more |
 | data      | Some long data that <br /> spans multiple lines |
 | data      | Some long data that <br /> spans multiple lines |
