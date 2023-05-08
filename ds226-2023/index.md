@@ -6,6 +6,7 @@
 [Small Projects](projects.md)   
 [Attendance](attendance.md)    
 [Late Submission & Academic Integrity Policy](SD-late-policy.pdf)  
+[Tencent Shared Document](https://docs.qq.com/doc/DSkV4UGlsanpMSE5v)  
 
 
 # DS226. Circular Products: Experience
