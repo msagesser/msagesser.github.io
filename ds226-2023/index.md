@@ -1,4 +1,4 @@
-[Full Schedule (pdf)](DS226-2023.pdf)  
+[Course Schedule (pdf)](DS226-2023.pdf)  
 [Guest Talks](DS226-2023-guesttalks.pdf)   
 [Course Resources - password protected](https://sustechsd-my.sharepoint.com/:f:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/Er6D_cIrUsdOsaET0x6AGc8BJ_xEToK1auZe0mwRhNp4MQ?e=5Y2WxT)  
 [Chicago Manual of Style CMS](https://www.chicagomanualofstyle.org/)  
@@ -42,38 +42,23 @@ The final grade is a letter grade.
 
 
 ## Software & Hardware
-### Adobe Premiere & Audition
+
+**Adobe Premiere & Audition**
 - [Import/Export between Premiere & Audition](https://helpx.adobe.com/audition/how-to/export-multitrack.html?playlist=/services/playlist.helpx/products:SG_AUDITION_1_1/learn-path:key-techniques/set-header:multitrack/playlist:topic/en_us.json&ref=helpx.adobe.com)
 - [Adobe Audition Tutorials](https://helpx.adobe.com/audition/tutorials.html)  
 - [Adobe Audition Help](https://helpx.adobe.com/support/audition.html)  
 - [Adobe Premiere Tutorials](https://helpx.adobe.com/premiere-pro/tutorials.html)
 
+**Processing**
+- [processing.org](https://processing.org)
 
 
-### Processing.org
-(including P5.js)  
-Software for digital processing of images, video, and sound  
-
-### VCV Rack
-Digital emulator of analog synthesis, can also be used to process pre-existing sounds  
-
-### Microphone technique, working with field recorders
-Introduction to microphone technique, field recording, analog/digital translation, stereo, audio editing, effects, mixing and mastering  
-
-### Optional tools to select from
+**Optional tools**
 - Reaper, digital audio workstation for sound design and music production [(reaper.fm)](https://reaper.fm)
 - Audiacity (audio editor)
-- Web Audio API (web audio)
-- Web GL (web graphics rendering)
 - Tone.js (web audio)
-- Pure Data PD (audio real-time processing)
 
-## Course Overview
-
-- [PDF full schedule](ds226-schedule-6.pdf)
-
-
-## Readings
+**Core Readings**
 -	Hegarty, Paul. 2014. Rumour and Radiation: Sound in Video Art. New York, N.Y.: Bloomsbury Academic.
 -	Blesser, Barry, and Linda-Ruth Salter. 2007. Spaces Speak, Are You Listening? Experiencing Aural Architecture. Cambridge, Mass.: MIT Press.
 -	Eck, Cathy van. 2017. Between Air and Electricity: Microphones and Loudspeakers as Musical Instruments. New York: Bloomsbury Academic.
