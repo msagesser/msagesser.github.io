@@ -35,7 +35,7 @@ Item | Percentage of grade
 ------------ | -------------
 Attendance | 10%
 Projects | 40%
-Final presentation | 50%
+Final Project | 50%
 
 The final grade is a letter grade.
 

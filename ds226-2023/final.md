@@ -1,123 +1,31 @@
 [DS226 Home](home.md)
 
-# DS226. Final Project
+# DS226. Final Project Assignment
+
+**Assignment**
+Realize a larger creative project, in a group, in which you apply the technical, conceptual, theoretical, and aesthetical skill you have learned in this course. The expected format is a video for a non-regular screen size, with accompanying sound, which creates an experience for an audience. Its lenght should be max 5 minutes. Choose a topic that has a strong connection to, or is inspired by, *e-waste*. Make use of a circular material economy, interpreted and explained by you and your group.
 
 
-Work on final project: apply everything that you have learned in this course and create a (spatial) experience (in image & sound) based on a circular economy of footage.  
+- Genre: experience design, digital media art
+- Format Video: digital video for non-regular screen
+- Format Audio: digital audio, 2-channel (stereo), mixed and mastered
+- Topic: connected to, or inspired by, *e-waste*
+- Methodological and Conceptual Approach: circular material economy
+- Materials: found footage, self-recorded footage, and/or self-made footage
+- Software: Recommended is Processing for video & sound processing and synthesis, Adobe Premiere for video editing, and Adobe Audition for sound editing, mixing, and mastering
+- Length: maximum 5 minutes
+- Public Presentation Criteria: video has to pass C Future City approval process for public showcase at mall
 
-- create a work of digital media art  
-- create something abstract (textures that change slowly over time, in image and sound)
-- put images and sounds together that were not together before
-- use mostly pre-existing materials (circular economy: create something new out of something old)
-- combine, edit, process, recombine, change, manipulate the media files in a creative way
-- Try out some radical editing (“radical” means the edit itself becomes visible/audible; the edit becomes part of the content)
-- Use some of the editing techniques we learned in this class:
-  - looping / repeating
-  - slowing down / speeding up
-  - copying / collaging / multiplying
-  - framing / selecting / cropping
+**Project parts made by the group**
+- Final video with sound (grading criteria: technical realization, quality of concept, application of theory, aesthetical quality, team work, responsiveness to teacher's and peers' feedback in iterative revisions, crediting of sources and roles, and professionality of result)
+- A strong, meaningful title for the work in English (grading criteria: responsiveness to iterative feedback procedure)
+- Oral presentation of the final video on site at the C Future City on Day 8 (grading criteria: quality of presentation, professionality, team work)
 
-   
-- Length: between 5 – 10 min.
-  
+**Project parts made by each group member**
+- Concept note; a strong English text, explaining the conceptual, theoretical, and creative intervention that the project makes; maximum length is 250 words (grading criteria: logical structure of text, English grammar and spelling, quality of thought process, and overall professionality of the concept note)
+- Individual project documentation: a longer PDF document that carefully documents the design process of this project. It is expected to contain the title, the concept note, group names, short bio of the group member, 3 or more video stills, most important software code, and a number of visual materials from the design process depending on the group member's preferences. These could cosist of drafts, drawings, flow charts, story boards, synopsis notes, mockups, visualizations, sound plans, musical scores, or many more. Each material used in the documentation has to indicate who made it, or where it is coming from. Materials by other group members can be used, if they are credited. Yet, each group member, in this documentation, should emphasise the parts that they put most effort in. (Grading criteria: conceptual quality of documentation, completeness, quality of the "narration" or readability for an outside audience, overall design of the PDF, and professionality of documentation)
 
-### Part 1 - Homework (individually)
-
-Homework week 1-2:  
-- collect at least 2 raw digital materials (image or sound or both)  
-- meet with Marcel for 10 minutes before the next class and present your brainstorming and at least two collected materials (image or sound or both)
-- sign up for a meeting on the sign-up sheet on OneDrive by the end of May 11, 2022
-
-### Part 2 - Homework
-
-Homework week 2-3:  
-
-
-Each groups meets with Marcel for 10min and presents a major project proposal including:  
-- concept notes,
-- methods,
-- topic,
-- academic research,
-- catalog of materials,
-- backgrounds and bios  
-
-Sign up for a meeting on the sign-up sheet on OneDrive by the end of the day, May 18, 2022  
-
-### Part 3 - Homework
-
-Homework week 3-4:  
-
-Homework:
-Finish major part of your final project; finish recording and processing all materials; start post production.  
-
-Meet with Marcel if necessary (meeting with Marcel is not mandatory this time)
-
-### Part 4 - Process (group work)
-
-Learning Objective 4:  
-Present research of techniques that 'translate' ideas between multiple intangible materials.
-Create your audio-visual work.
-
-- Finish your project.
-- Be sure to do postproduction (color correction, creative style, audio mixing, reverb)
-- Export as H264 (format) / High Quality 1080p HD / image ratio 16:9. 
-
-**Upload to OneDrive by Tuesday May 31, 8:00pm**  
-Please include a text file (word, .txt, .rtf) with:
-
-- title of the work (can be bilingual, Chinese/English, or can be only English)
-- title of all authors
-- credits:
-
-1) list all people filmed, all music used, all images/videos made by someone else, all sounds+images from Baidu/Bilibili/FreeSound.org, etc..) example "MUSIC X" by (user) ZGump876 from Freesound.org (2016).
-2) list all recording locations for your own materials (images + sounds)
-3) list any software code/examples by other people that you have used (example: "our own code is based on Example X by the Processing Foundation, by David Foneca)
-4) anything else that you would like to say in the credits (example: thanks to my friend X for doing/helping/... with ... // thanks to my cat/dog :) ... )  
-Put all credits just in a text file into the same folder – I will then create credits for you, so to save you some work!
-
-### Part 5 - Presentation (group work + individual work)
-
-Present your project in the final review to the invited audience (group work).   
-
-Have a first version of your 'artist statement' ready (individual work). 
-
-**Upload the text to Onedrive by Wednesday June 1, 11am**  
-(upload as a .txt / .rtf / .docx file, put it in the folder: final project artist statement (draft))
-
-Your text should contain:  
-
-- what are circular materials in digital media?
-- what are your materials?
-- why, and how, are they circular? (or the result of a circular material economy?)
-- what is your main concept (very short!)
-- what did you learn from making this project (and from this class)? Name 1 thing!
-- how did it change you as an _experience designer?_
-- max. 300 words (English)  
-
-### Part 6 - Documentation (individually)
-
-Complete these tasks until Friday, Jun 3, 23:59 (midnight):  
-  
-(1)
-If your final project needs revision or if you were not happy with yesterday's version, you can revise it and upload it again. If you do that, please let me know so I can assist you.
-
-(2)
-Everybody revise and re-submit your artist statement. If you find your draft is already enough good, then you can just resubmit it as it is (upload it to OneDrive / final project artist statements / revised). If you want, you can address yesterday's feedback in the revised version.
-
-(3)
-Documentation materials of your final project in DS226:  
-  
-Upload a folder with your name (to OneDrive / final project documentation)
-containing the following materials from your final projects:  
-(each student creates their own folder -- even if you were working with a group, your notes/sketches/etc. are mostly your individual contribution):
-  
-- 1 still image from your video (each person takes their favorite still from your video)
-- Scans of paper sketches
-- Notes
-- Drawings / concepts / storyboards / diagrams
-- Software code
-- Screenshots of some VCV rack settings or so
-- 1 important raw video/image that you used
-- 1 important raw sound/music that you used
-- Any additional thing that you want to include
-(of course, not everybody will have all these materials, just make a reasonable selection of some of these things and upload them – it's important that every person uploads some things – this is how you demonstrate your process which is a part of your final grade)
+**Timeline & Submissions**
+- Day 1: Make groups
+- Day 4: Interim Review with external experts (not graded): present a meaningful first draft or prototype of your project
+- Day 8: Final Review with external experts at C Future City
