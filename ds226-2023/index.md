@@ -5,7 +5,9 @@
 [Final Project](final.md)   
 [Small Projects](projects.md)   
 [Attendance](attendance.md)    
-  
+[Late Submission & Academic Integrity Policy](SD-late-policy.pdf)  
+
+
 # DS226. Circular Products: Experience
 Spring 2023  
 Major Elective Course  
