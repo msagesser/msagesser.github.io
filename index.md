@@ -30,8 +30,9 @@ TA for DS345, Fall 2022
 TA for DS226, Spring 2023  
   
 #### Courses currently taught at the School of Design
-- [DS345 Sound Design (Fall 2022)](ds345)
-- [DS226 Circular Products: Experience (Spring 2022)](ds226/home.md)
+- [DS226 Circular Products: Experience (Spring 2023)](ds226-2023)
+- [DS345 Sound Design (Fall 2022)](ds345-2022)
+- [DS226 Circular Products: Experience (Spring 2022)](ds226-2022/home.md)
 
 #### Guest courses & workshops
 - [Technology-Informed Sound Practice: Artist Talk @CSUSB, 2023](artist_talk)
