@@ -2,7 +2,7 @@
 
 # DS226. Final Project Assignment
 
-**Assignment**
+**Assignment**  
 Realize a larger creative project, in a group, in which you apply the technical, conceptual, theoretical, and aesthetical skill you have learned in this course. The expected format is a video for a non-regular screen size, with accompanying sound, which creates an experience for an audience. Its lenght should be max 5 minutes. Choose a topic that has a strong connection to, or is inspired by, *e-waste*. Make use of a circular material economy, interpreted and explained by you and your group.
 
 
