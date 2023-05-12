@@ -7,7 +7,7 @@
 [Attendance](attendance.md)    
 [Late Submission & Academic Integrity Policy](SD-late-policy.pdf)  
 [Tencent Shared Document](https://docs.qq.com/doc/DSkV4UGlsanpMSE5v)   
-[Link for Project Submission - Navigate to DS226](https://sustechsd.sharepoint.com/:f:/s/SIDI2/Eg1au4PA4e1OnnGXjtL5h-4Bj3ErePz0LBbL1y00fJFmyQ?e=HcxIeO)   
+ 
 
 # DS226. Circular Products: Experience
 Spring 2023  
