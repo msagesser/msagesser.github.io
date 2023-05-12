@@ -55,7 +55,9 @@ The final grade is a letter grade.
 - [Adobe Premiere Tutorials](https://helpx.adobe.com/premiere-pro/tutorials.html)
 
 **Processing**
-- [processing.org](https://processing.org)
+- [Processing.org](https://processing.org)   
+- [Additional Resources by Tim Rodenbroeker](https://timrodenbroeker.de/)  
+- Examples by Dong and Marcel are in the course resources folder
 
 
 **Optional tools**
