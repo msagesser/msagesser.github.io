@@ -12,11 +12,6 @@ Create a small video (can be without sound) for the 8 LED panels in one row. Cho
 
 
 **Small Project 2 (Individual)**  
-Create a small piece with (a) video/graphics made in Processing and (b) sound made in Adobe Audition.  
-The project should thematize the idea of 'circular economy' in digital media (make something new of something old).  
-The video should contain some parts of original code by you. It should be made for a square-shaped LED panel screen.
-The sound should contain some old, found, electronic sound, such as 8-bit sound, etc. 
-Duration should be between ~ 30sec and ~ 2min, and it can be looped.
-Submission: submit the final video file (320 * 320 pixels) that contains sound. Include in your submission a PDF that contains the most important Processing code (with parts made by yourself), and write something about what you made, and what you took from elsewhere and changed, and where you used AI to help you generate code and ideas. Also list all the sources used (all video and sound footage) - where is it from, who made it?  
+Create a small piece with (a) video/graphics made in Processing and (b) sound made in Adobe Audition. The project should thematize the idea of 'circular economy' in digital media (make something new of something old). The video should contain some parts of original code by you. It should be made for a square-shaped LED panel screen. The sound should contain some old, found, electronic sound, such as 8-bit sound, etc. The Duration should be between ~ 30sec and ~ 2min, and it should be a loop. **Submission:** submit the final video file (320 * 320 pixels) that contains sound. Include in your submission a PDF that contains the most important Processing code (with parts made by yourself), and write something about what you made, and what you took from elsewhere and changed, and where you used AI to help you generate code and ideas. Also list all the sources used (all video and sound footage) - where is it from, who made it?  
 
 *Deadline for submitting the result to the submission folder: May 17, 23:59*
