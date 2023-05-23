@@ -1,5 +1,5 @@
 [Course Schedule (pdf)](DS226-2023.pdf)  
-[Guest Talks](DS226-2023-guesttalks.pdf)   
+[Guest Talks](DS226-guest-talks-2023v2.jpg)   
 [Course Resources - password protected](https://sustechsd-my.sharepoint.com/:f:/g/personal/marcel_sagesser_sustechsd_onmicrosoft_com/Er6D_cIrUsdOsaET0x6AGc8BI_fHHLumIzUdbD84oQq2Eg?e=lU8eMj)  
 [Chicago Manual of Style CMS](https://www.chicagomanualofstyle.org/)  
 [Final Project](final.md)   
