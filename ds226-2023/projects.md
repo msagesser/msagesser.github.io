@@ -18,6 +18,6 @@ Create a small piece with (a) video/graphics made in Processing and (b) sound ma
   
 
 **Small Project 3 (Group)**  
-Create a short video work with sound for irregular screen size that explains, demonstrates or shows "Translation" + "Synthesis", both for image and sound. Use Processing for sound synthesis and Adobe Audition (AU) for audio processing in a combined way to produce your sound project. Use Processing and Adobe Premiere to produce your visuals. Upload the finished video file, together with a pdf containing the main Processing code, and a list of all source materials used. Each group member, add one or two lines of English text, explaining your (personal) concept/idea (add it all to the same pdf, but put your name down so that it is clear who wrote what).
+Create a short video work with sound for irregular screen size ('C', 160width * 640height) that explains, demonstrates or shows "Translation" + "Synthesis", both for image and sound. Use Processing for sound synthesis and Adobe Audition (AU) for audio processing in a combined way to produce your project. Use Processing and Adobe Premiere to produce your visuals. Upload the finished video file, together with a pdf containing the main Processing code, and a list of all source materials used. Each group member, add one or two lines of English text, explaining your (personal) concept/idea (add it all to the same pdf, but put your name down so that it is clear who wrote what).
 
 *Deadline for submitting the result to the submission folder: May 24, 23:59*
