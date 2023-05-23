@@ -1,4 +1,4 @@
-[DS226 Home](home.md)
+[DS226-2023 Home](index.md)
 
 # DS226. Attendance
 
