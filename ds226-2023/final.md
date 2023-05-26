@@ -30,6 +30,7 @@ Realize a larger creative project, in a group, in which you apply the technical,
 - Day 4: Interim Review with external experts (not graded): present a meaningful first draft or prototype of your project (expected presentation: play video with sound draft [max 3min], then present project with or without slides/pdf/graphics. Include the context, client, situation, overview, title, concept/idea, and how it relates to circular material economies, and to e-waste [presentation part max 5min]. Then, the experts will give comments [10min]).
 - Day 5: meet Marcel for group office hour, present meaningful response to feedback from interim review
 - Day 6: present second big draft of Final Project in class (include any updates of the concept, and include timeline that includes all project parts)
+- Sunday after Day6 (May 28, 23:59pm) upload the Final Project draft (video with sound) to the submission folder
 - Day 7: By the start of the day, present final project, including title, concept note, and presentation outline; and then workshop all elements on this day in the classroom 
 - Day 7: By midnight, submit final video for content approval to client
 - Day 8: Final Review with external experts at C Future City
