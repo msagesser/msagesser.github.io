@@ -32,6 +32,7 @@ Realize a larger creative project, in a group, in which you apply the technical,
 - Day 6: present second big draft of Final Project in class (include any updates of the concept, and include timeline that includes all project parts)
 - Sunday after Day6 (May 28, 23:59pm) upload the Final Project draft (video with sound) to the submission folder
 - Day 7: By 7:59am, present final project, including title, individual concept note; and then workshop all elements on this day in the classroom and potentially at the shopping mall (upload to "Final Project Draft3")
-- Day 7: By 23:59, submit final video with sound for content approval to client (upload to "Final Project Draft4")
+- Day 7 (Tuesday): By 23:59, submit the final video with sound. Include title and individual concept notes.
+- Day 7+1 (Wednesday): By 23:59, submit corrected final video with sound. Include revised title and individual concept notes.
 - Day 8: Final Review with external experts at C Future City
 - Sunday after the last class (June 4, 2023, 23:59pm), submit full final project including all parts
