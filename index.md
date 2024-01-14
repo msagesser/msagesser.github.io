@@ -15,6 +15,6 @@ at SUSTech School of Design, Shenzhen
 Artist & Researcher in Digital Sound  
 Assistant Professor of Media Arts and Technology
 
-[Website research *Marcel Zaes*](https://soundstudiesgroup.net)
+[Website research *Marcel Zaes*](https://soundstudiesgroup.net)  
 [Website Marcel Zaes Sagesser at the School of Design](https://designschool.sustech.edu.cn/academics/faculty)  
 [Website artist *Marcel Zaes*](https://marcelzaes.com)
